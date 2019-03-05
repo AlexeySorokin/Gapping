@@ -1,0 +1,137 @@
+VERB	2033 99.9
+AUX 2031 99.9	VERB 1 0.0	NOUN 1 0.0
+----------------------------------------
+PROPN	2 0.1
+AUX 2 100.0
+----------------------------------------
+ADJ	1 0.0
+AUX 1 100.0
+----------------------------------------
+
+VERB_Aspect	2033 100.0	98 4.8
+AUX_Perf	1933 95.1
+Other: 
+AUX_Imp	98 4.8
+Other: 
+VERB_Perf	1 0.0
+Other: 
+NOUN_Perf	1 0.0
+Other: 
+VERB_Imp	0 0.0
+Other: 
+----------------------------------------
+VERB_VerbForm	2033 100.0	1 0.0
+AUX_Part	1954 96.1
+Other: 
+AUX_Inf	76 3.7
+Other: 
+VERB_Part	1 0.0
+Other: 
+NOUN_Part	1 0.0
+Other: 
+AUX_Fin	1 0.0
+Other: 
+VERB_Inf	0 0.0
+Other: 
+VERB_Fin	0 0.0
+Other: 
+----------------------------------------
+VERB_Voice	2033 100.0	0 0.0
+AUX_Pass	2031 99.9
+Other: 
+VERB_Pass	1 0.0
+Other: 
+NOUN_Pass	1 0.0
+Other: 
+----------------------------------------
+VERB_Number	1957 96.3	1737 99.9
+AUX_Sing	1339 68.4
+Other: 
+AUX_Plur	616 31.5
+Other: 
+VERB_Sing	1 0.1
+Other: 
+NOUN_Sing	1 0.1
+Other: 
+VERB_Plur	0 0.0
+Other: 
+----------------------------------------
+VERB_Tense	1957 96.3	1410 81.1
+AUX_Past	1951 99.7
+Other: 
+AUX_Pres	4 0.2
+Other: 
+VERB_Past	1 0.1
+Other: 
+NOUN_Past	1 0.1
+Other: 
+VERB_Pres	0 0.0
+Other: 
+----------------------------------------
+VERB_Variant	1948 95.8	0 0.0
+AUX_Short	1947 99.9
+Other: 
+VERB_Short	1 0.1
+Other: 
+----------------------------------------
+VERB_Gender	1340 65.9	984 99.9
+AUX_Masc	550 41.0
+Other: 
+AUX_Neut	413 30.8
+Other: 
+AUX_Fem	375 28.0
+Other: 
+VERB_Masc	1 0.1
+Other: 
+NOUN_Masc	1 0.1
+Other: 
+VERB_Fem	0 0.0
+Other: 
+VERB_Neut	0 0.0
+Other: 
+----------------------------------------
+VERB_Case	8 0.4	1 100.0
+AUX_Ins	7 87.5
+Other: 
+NOUN_Nom	1 12.5
+Other: 
+VERB_Nom	0 0.0
+Other: 
+----------------------------------------
+PROPN_Foreign	2 100.0	0 0.0
+AUX_Yes	2 100.0
+Other: 
+----------------------------------------
+PROPN_Prep	2 100.0	0 0.0
+AUX_на	1 50.0
+AUX_в	1 50.0
+----------------------------------------
+ADJ_Number	1 100.0	1 100.0
+AUX_Plur	1 100.0
+Other: 
+ADJ_Plur	0 0.0
+Other: 
+----------------------------------------
+ADJ_Degree	1 100.0	0 0.0
+AUX_Pos	1 100.0
+Other: 
+----------------------------------------
+ADJ_Variant	1 100.0	0 0.0
+AUX_Short	1 100.0
+Other: 
+----------------------------------------
+VERB_Prep	1 0.0	0 0.0
+AUX_в	1 100.0
+----------------------------------------
+VERB_Mood	1 0.0	1 100.0
+AUX_Ind	1 100.0
+Other: 
+VERB_Ind	0 0.0
+Other: 
+----------------------------------------
+VERB_Person	1 0.0	1 100.0
+AUX_3	1 100.0
+Other: 
+VERB_3	0 0.0
+Other: 
+----------------------------------------

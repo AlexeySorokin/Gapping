@@ -1,0 +1,75 @@
+AUX	3502 87.1
+ADJ 1688 48.2	NOUN 1191 34.0	ADV 388 11.1	PRON 91 2.6	PROPN 63 1.8	DET 51 1.5	VERB 18 0.5	NUM 6 0.2	SYM 5 0.1	PART 1 0.0
+----------------------------------------
+PRON	514 12.8
+NOUN 414 80.5	VERB 30 5.8	PRON 25 4.9	ADJ 25 4.9	PROPN 8 1.6	DET 6 1.2	ADV 4 0.8	NUM 1 0.2	SYM 1 0.2
+----------------------------------------
+PART	3 0.1
+NOUN 3 100.0
+----------------------------------------
+SYM	2 0.0
+PROPN 1 50.0	NOUN 1 50.0
+----------------------------------------
+
+AUX_Aspect	3502 100.0	6 33.3
+Imp	3502 100.0
+Other: VERB_Perf 12 66.7	VERB_Imp 6 33.3
+----------------------------------------
+AUX_VerbForm	3502 100.0	1 5.6
+Fin	3121 89.1
+Other: VERB_Part 10 90.9	VERB_Fin 1 9.1
+Inf	345 9.9
+Other: VERB_Part 6 100.0
+Conv	31 0.9
+Other: VERB_Part 1 100.0
+Part	5 0.1
+Other: 
+----------------------------------------
+AUX_Voice	3502 100.0	4 22.2
+Act	3502 100.0
+Other: VERB_Pass 12 66.7	VERB_Act 4 22.2	VERB_Mid 2 11.1
+----------------------------------------
+AUX_Tense	3139 89.6	7 58.3
+Past	2565 81.7
+Other: VERB_Past 6 66.7	VERB_Pres 3 33.3
+Pres	574 18.3
+Other: VERB_Past 2 66.7	VERB_Pres 1 33.3
+----------------------------------------
+AUX_Number	3126 89.3	2371 92.4
+Sing	2523 80.7
+Other: ADJ_Sing 1063 52.9	NOUN_Sing 748 37.3	NOUN_Plur 65 3.2	PROPN_Sing 46 2.3	PRON_Sing 37 1.8	DET_Sing 25 1.2	PRON_Plur 9 0.4	VERB_Sing 6 0.3	ADJ_Plur 3 0.1	PROPN_Plur 3 0.1	VERB_Plur 2 0.1	DET_Plur 1 0.0
+Plur	603 19.3
+Other: ADJ_Plur 301 53.9	NOUN_Plur 130 23.3	NOUN_Sing 100 17.9	DET_Plur 8 1.4	PROPN_Sing 6 1.1	PRON_Plur 4 0.7	PRON_Sing 3 0.5	VERB_Plur 3 0.5	DET_Sing 2 0.4	ADJ_Sing 1 0.2
+----------------------------------------
+AUX_Mood	3121 89.1	1 100.0
+Ind	3103 99.4
+Other: VERB_Ind 1 100.0
+Imp	18 0.6
+Other: 
+----------------------------------------
+AUX_Gender	2086 59.6	1367 82.9
+Neut	982 47.1
+Other: ADJ_Neut 402 64.7	NOUN_Fem 68 11.0	NOUN_Neut 63 10.1	NOUN_Masc 53 8.5	PRON_Neut 9 1.4	PROPN_Masc 7 1.1	ADJ_Masc 7 1.1	DET_Neut 4 0.6	PRON_Masc 3 0.5	PROPN_Fem 2 0.3	PRON_Fem 2 0.3	VERB_Neut 1 0.2
+Masc	678 32.5
+Other: ADJ_Masc 332 51.5	NOUN_Masc 222 34.4	NOUN_Fem 37 5.7	NOUN_Neut 21 3.3	PROPN_Masc 12 1.9	DET_Masc 6 0.9	PRON_Neut 4 0.6	PROPN_Fem 4 0.6	PRON_Masc 3 0.5	VERB_Masc 2 0.3	ADJ_Neut 1 0.2	ADJ_Fem 1 0.2
+Fem	426 20.4
+Other: ADJ_Fem 186 48.6	NOUN_Fem 109 28.5	NOUN_Masc 46 12.0	NOUN_Neut 17 4.4	DET_Fem 9 2.3	PRON_Neut 4 1.0	PROPN_Masc 4 1.0	PROPN_Fem 3 0.8	VERB_Fem 2 0.5	PRON_Fem 2 0.5	ADJ_Masc 1 0.3
+----------------------------------------
+AUX_Person	561 16.0	5 55.6
+3	520 92.7
+Other: PRON_3 5 55.6	PRON_1 3 33.3	PRON_2 1 11.1
+2	21 3.7
+Other: 
+1	20 3.6
+Other: 
+----------------------------------------
+AUX_Case	5 0.1	0 0.0
+Nom	4 80.0
+Other: NOUN_Ins 4 100.0
+Loc	1 20.0
+Other: NOUN_Ins 1 100.0
+----------------------------------------
+PRON_Prep	2 0.4	0 0.0
+об	1 50.0
+к	1 50.0
+----------------------------------------

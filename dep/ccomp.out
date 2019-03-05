@@ -1,0 +1,328 @@
+VERB	3539 76.8
+VERB 3062 86.5	ADJ 354 10.0	NOUN 50 1.4	DET 43 1.2	ADV 30 0.8
+----------------------------------------
+ADJ	545 11.8
+VERB 467 85.7	ADJ 62 11.4	NOUN 9 1.7	DET 5 0.9	X 1 0.2	ADV 1 0.2
+----------------------------------------
+NOUN	319 6.9
+VERB 282 88.4	ADJ 31 9.7	ADV 3 0.9	NOUN 2 0.6	DET 1 0.3
+----------------------------------------
+ADV	131 2.8
+VERB 113 86.3	ADJ 14 10.7	NOUN 3 2.3	DET 1 0.8
+----------------------------------------
+PRON	35 0.8
+VERB 34 97.1	NOUN 1 2.9
+----------------------------------------
+PROPN	16 0.3
+VERB 12 75.0	ADJ 2 12.5	NOUN 1 6.2	DET 1 6.2
+----------------------------------------
+NUM	10 0.2
+VERB 8 80.0	ADJ 2 20.0
+----------------------------------------
+SCONJ	4 0.1
+VERB 2 50.0	ADJ 1 25.0	ADV 1 25.0
+----------------------------------------
+PART	4 0.1
+VERB 4 100.0
+----------------------------------------
+DET	2 0.0
+VERB 2 100.0
+----------------------------------------
+SYM	1 0.0
+VERB 1 100.0
+----------------------------------------
+
+VERB_Voice	3539 100.0	1807 59.0
+Act	2361 66.7
+Other: VERB_Act 1695 83.3	VERB_Mid 259 12.7	VERB_Pass 81 4.0
+Mid	808 22.8
+Other: VERB_Act 556 80.6	VERB_Mid 98 14.2	VERB_Pass 36 5.2
+Pass	370 10.5
+Other: VERB_Act 279 82.8	VERB_Mid 44 13.1	VERB_Pass 14 4.2
+----------------------------------------
+VERB_Aspect	3538 100.0	1533 50.1
+Imp	2151 60.8
+Other: VERB_Imp 976 52.4	VERB_Perf 886 47.6
+Perf	1387 39.2
+Other: VERB_Imp 642 53.5	VERB_Perf 557 46.5
+----------------------------------------
+VERB_VerbForm	3538 100.0	2040 66.6
+Fin	3170 89.6
+Other: VERB_Fin 2011 73.9	VERB_Inf 556 20.4	VERB_Conv 87 3.2	VERB_Part 68 2.5
+Part	265 7.5
+Other: VERB_Fin 191 78.0	VERB_Inf 35 14.3	VERB_Conv 10 4.1	VERB_Part 9 3.7
+Inf	103 2.9
+Other: VERB_Fin 70 74.5	VERB_Inf 20 21.3	VERB_Part 3 3.2	VERB_Conv 1 1.1
+----------------------------------------
+VERB_Number	3435 97.1	1678 61.9
+Sing	2341 68.2
+Other: VERB_Sing 1167 63.3	VERB_Plur 410 22.2	ADJ_Sing 199 10.8	NOUN_Sing 29 1.6	DET_Sing 16 0.9	ADJ_Plur 14 0.8	DET_Plur 9 0.5
+Plur	1094 31.8
+Other: VERB_Sing 448 51.7	VERB_Plur 254 29.3	ADJ_Sing 115 13.3	NOUN_Sing 21 2.4	DET_Sing 15 1.7	ADJ_Plur 10 1.2	DET_Plur 3 0.3
+----------------------------------------
+VERB_Tense	3435 97.1	1027 43.7
+Pres	1626 47.3
+Other: VERB_Past 564 49.6	VERB_Pres 508 44.6	VERB_Fut 66 5.8
+Past	1362 39.7
+Other: VERB_Past 511 54.8	VERB_Pres 347 37.2	VERB_Fut 74 7.9
+Fut	447 13.0
+Other: VERB_Pres 149 52.8	VERB_Past 125 44.3	VERB_Fut 8 2.8
+----------------------------------------
+VERB_Mood	3170 89.6	1989 98.9
+Ind	3170 100.0
+Other: VERB_Ind 1989 98.9	VERB_Imp 22 1.1
+----------------------------------------
+VERB_Person	2072 58.5	486 69.4
+3	1931 93.2
+Other: VERB_3 466 72.2	VERB_1 142 22.0	VERB_2 37 5.7
+1	106 5.1
+Other: VERB_3 22 51.2	VERB_1 14 32.6	VERB_2 7 16.3
+2	35 1.7
+Other: VERB_2 6 50.0	VERB_1 3 25.0	VERB_3 3 25.0
+----------------------------------------
+VERB_Gender	926 26.2	176 44.1
+Masc	453 48.9
+Other: VERB_Masc 110 55.8	ADJ_Neut 34 17.3	VERB_Neut 29 14.7	VERB_Fem 12 6.1	DET_Fem 3 1.5	ADJ_Masc 3 1.5	DET_Masc 2 1.0	ADJ_Fem 2 1.0	NOUN_Fem 1 0.5	NOUN_Neut 1 0.5
+Neut	246 26.6
+Other: VERB_Masc 40 37.7	ADJ_Neut 23 21.7	VERB_Neut 21 19.8	VERB_Fem 8 7.5	DET_Fem 4 3.8	NOUN_Masc 2 1.9	DET_Neut 2 1.9	ADJ_Fem 2 1.9	DET_Masc 1 0.9	NOUN_Neut 1 0.9	NOUN_Fem 1 0.9	ADJ_Masc 1 0.9
+Fem	227 24.5
+Other: VERB_Masc 42 43.8	VERB_Neut 20 20.8	ADJ_Neut 13 13.5	VERB_Fem 10 10.4	ADJ_Fem 3 3.1	NOUN_Masc 3 3.1	ADJ_Masc 3 3.1	NOUN_Fem 1 1.0	DET_Masc 1 1.0
+----------------------------------------
+ADJ_Degree	545 100.0	57 90.5
+Pos	506 92.8
+Other: ADJ_Pos 56 96.6	ADJ_Cmp 1 1.7	ADV_Pos 1 1.7
+Cmp	39 7.2
+Other: ADJ_Pos 5 100.0
+----------------------------------------
+ADJ_Number	506 92.8	280 64.5
+Sing	365 72.1
+Other: VERB_Sing 200 62.9	VERB_Plur 60 18.9	ADJ_Sing 36 11.3	ADJ_Plur 10 3.1	NOUN_Sing 7 2.2	DET_Sing 5 1.6
+Plur	141 27.9
+Other: VERB_Sing 74 63.8	VERB_Plur 30 25.9	ADJ_Sing 8 6.9	NOUN_Sing 2 1.7	ADJ_Plur 2 1.7
+----------------------------------------
+ADJ_Variant	445 81.7	56 100.0
+Short	445 100.0
+Other: ADJ_Short 47 83.9	VERB_Short 9 16.1
+----------------------------------------
+ADJ_Gender	365 67.0	58 37.9
+Neut	170 46.6
+Other: VERB_Masc 27 39.1	ADJ_Neut 15 21.7	VERB_Neut 12 17.4	NOUN_Neut 4 5.8	VERB_Fem 4 5.8	ADJ_Masc 3 4.3	DET_Masc 2 2.9	DET_Fem 2 2.9
+Masc	109 29.9
+Other: VERB_Masc 19 41.3	VERB_Neut 11 23.9	ADJ_Neut 8 17.4	VERB_Fem 5 10.9	NOUN_Neut 2 4.3	ADJ_Fem 1 2.2
+Fem	86 23.6
+Other: VERB_Masc 18 47.4	ADJ_Neut 6 15.8	VERB_Fem 6 15.8	VERB_Neut 3 7.9	ADJ_Masc 2 5.3	DET_Fem 1 2.6	ADJ_Fem 1 2.6	NOUN_Masc 1 2.6
+----------------------------------------
+NOUN_Animacy	319 100.0	1 50.0
+Inan	259 81.2
+Other: NOUN_Inan 1 100.0
+Anim	60 18.8
+Other: NOUN_Inan 1 100.0
+----------------------------------------
+NOUN_Case	319 100.0	1 20.0
+Nom	230 72.1
+Other: NOUN_Nom 1 25.0	DET_Gen 1 25.0	VERB_Loc 1 25.0	VERB_Gen 1 25.0
+Loc	39 12.2
+Other: 
+Ins	25 7.8
+Other: NOUN_Nom 1 100.0
+Gen	18 5.6
+Other: 
+Acc	4 1.3
+Other: 
+Dat	3 0.9
+Other: 
+----------------------------------------
+NOUN_Gender	319 100.0	38 34.2
+Masc	147 46.1
+Other: VERB_Masc 26 49.1	ADJ_Neut 11 20.8	VERB_Neut 9 17.0	VERB_Fem 3 5.7	NOUN_Masc 1 1.9	NOUN_Neut 1 1.9	DET_Neut 1 1.9	ADJ_Masc 1 1.9
+Fem	108 33.9
+Other: VERB_Neut 16 38.1	VERB_Masc 10 23.8	ADJ_Neut 8 19.0	VERB_Fem 4 9.5	ADJ_Masc 4 9.5
+Neut	64 20.1
+Other: VERB_Masc 9 56.2	ADJ_Neut 3 18.8	VERB_Neut 3 18.8	VERB_Fem 1 6.2
+----------------------------------------
+NOUN_Number	319 100.0	159 61.6
+Sing	277 86.8
+Other: VERB_Sing 128 57.9	VERB_Plur 67 30.3	ADJ_Sing 22 10.0	ADJ_Plur 2 0.9	NOUN_Sing 1 0.5	DET_Sing 1 0.5
+Plur	42 13.2
+Other: VERB_Sing 24 64.9	VERB_Plur 5 13.5	ADJ_Sing 5 13.5	ADJ_Plur 2 5.4	NOUN_Sing 1 2.7
+----------------------------------------
+VERB_Variant	263 7.4	23 100.0
+Short	263 100.0
+Other: ADJ_Short 16 69.6	VERB_Short 7 30.4
+----------------------------------------
+ADV_Degree	131 100.0	14 100.0
+Pos	129 98.5
+Other: ADJ_Pos 14 100.0
+Cmp	2 1.5
+Other: 
+----------------------------------------
+NOUN_Prep	63 19.7	0 0.0
+в	33 52.4
+на	8 12.7
+у	6 9.5
+по	4 6.3
+из	2 3.2
+против	1 1.6
+впереди	1 1.6
+во	1 1.6
+без	1 1.6
+до	1 1.6
+порядка	1 1.6
+про	1 1.6
+от	1 1.6
+около	1 1.6
+при	1 1.6
+----------------------------------------
+ADJ_Case	61 11.2	1 50.0
+Nom	36 59.0
+Other: NOUN_Nom 1 100.0
+Ins	24 39.3
+Other: NOUN_Nom 1 100.0
+Acc	1 1.6
+Other: 
+----------------------------------------
+PRON_Case	35 100.0	0 0.0
+Gen	15 42.9
+Other: NOUN_Nom 1 50.0	VERB_Nom 1 50.0
+Nom	12 34.3
+Other: 
+Ins	3 8.6
+Other: 
+Loc	3 8.6
+Other: 
+Acc	2 5.7
+Other: 
+----------------------------------------
+PRON_Number	30 85.7	12 44.4
+Sing	16 53.3
+Other: VERB_Sing 9 64.3	VERB_Plur 5 35.7
+Plur	14 46.7
+Other: VERB_Sing 9 69.2	VERB_Plur 3 23.1	NOUN_Sing 1 7.7
+----------------------------------------
+VERB_Prep	23 0.6	0 0.0
+в	12 52.2
+прежде	5 21.7
+на	2 8.7
+до	2 8.7
+за	1 4.3
+по	1 4.3
+----------------------------------------
+PRON_Person	21 60.0	0 0.0
+3	9 42.9
+Other: VERB_1 1 100.0
+1	9 42.9
+Other: VERB_2 2 100.0
+2	3 14.3
+Other: VERB_3 1 50.0	VERB_1 1 50.0
+----------------------------------------
+PRON_Prep	21 60.0	0 0.0
+у	11 52.4
+с	2 9.5
+для	2 9.5
+за	2 9.5
+в	2 9.5
+о	1 4.8
+до	1 4.8
+----------------------------------------
+PROPN_Animacy	15 93.8	0 0.0
+Anim	8 53.3
+Other: NOUN_Inan 1 100.0
+Inan	7 46.7
+Other: 
+----------------------------------------
+PROPN_Case	15 93.8	0 0.0
+Nom	6 40.0
+Other: DET_Ins 1 100.0
+Loc	5 33.3
+Other: 
+Ins	2 13.3
+Other: VERB_Gen 1 100.0
+Gen	2 13.3
+Other: NOUN_Nom 1 100.0
+----------------------------------------
+PROPN_Number	15 93.8	8 66.7
+Sing	13 86.7
+Other: VERB_Sing 6 60.0	VERB_Plur 2 20.0	ADJ_Sing 2 20.0
+Plur	2 13.3
+Other: NOUN_Sing 1 50.0	DET_Sing 1 50.0
+----------------------------------------
+PROPN_Gender	14 87.5	2 33.3
+Masc	10 71.4
+Other: VERB_Masc 2 50.0	NOUN_Fem 1 25.0	VERB_Neut 1 25.0
+Fem	4 28.6
+Other: ADJ_Masc 1 50.0	ADJ_Neut 1 50.0
+----------------------------------------
+PRON_Gender	12 34.3	2 40.0
+Neut	8 66.7
+Other: VERB_Masc 1 100.0
+Masc	3 25.0
+Other: VERB_Masc 2 66.7	VERB_Fem 1 33.3
+Fem	1 8.3
+Other: VERB_Masc 1 100.0
+----------------------------------------
+PRON_Animacy	9 25.7	0 0.0
+Inan	8 88.9
+Other: 
+Anim	1 11.1
+Other: 
+----------------------------------------
+NUM_Case	8 80.0	0 0.0
+Nom	7 87.5
+Other: 
+Acc	1 12.5
+Other: 
+----------------------------------------
+PROPN_Prep	8 50.0	0 0.0
+в	3 37.5
+на	2 25.0
+у	2 25.0
+за	1 12.5
+----------------------------------------
+NUM_Gender	7 70.0	1 33.3
+Fem	3 42.9
+Other: ADJ_Neut 1 50.0	VERB_Neut 1 50.0
+Neut	3 42.9
+Other: ADJ_Neut 1 100.0
+Masc	1 14.3
+Other: 
+----------------------------------------
+ADJ_Prep	4 0.7	0 0.0
+до	3 75.0
+по	1 25.0
+----------------------------------------
+VERB_Case	2 0.1	0 0.0
+Ins	1 50.0
+Other: 
+Nom	1 50.0
+Other: 
+----------------------------------------
+DET_Case	2 100.0	0 0.0
+Nom	2 100.0
+Other: 
+----------------------------------------
+DET_Degree	2 100.0	0 0.0
+Pos	2 100.0
+Other: 
+----------------------------------------
+DET_Gender	2 100.0	0 0.0
+Neut	1 50.0
+Other: 
+Fem	1 50.0
+Other: 
+----------------------------------------
+DET_Number	2 100.0	0 0.0
+Sing	2 100.0
+Other: VERB_Plur 1 100.0
+----------------------------------------
+NUM_Animacy	1 10.0	0 0.0
+Inan	1 100.0
+Other: 
+----------------------------------------
+ADJ_Animacy	1 0.2	0 0.0
+Anim	1 100.0
+Other: 
+----------------------------------------
+PART_Polarity	1 25.0	0 0.0
+Neg	1 100.0
+Other: 
+----------------------------------------

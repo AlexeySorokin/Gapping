@@ -1,0 +1,543 @@
+NOUN	18929 91.8
+DET 18929 100.0
+----------------------------------------
+PRON	449 2.2
+DET 449 100.0
+----------------------------------------
+VERB	426 2.1
+DET 426 100.0
+----------------------------------------
+ADJ	347 1.7
+DET 347 100.0
+----------------------------------------
+PROPN	230 1.1
+DET 230 100.0
+----------------------------------------
+DET	106 0.5
+DET 106 100.0
+----------------------------------------
+NUM	95 0.5
+DET 95 100.0
+----------------------------------------
+ADV	34 0.2
+DET 34 100.0
+----------------------------------------
+SYM	4 0.0
+DET 4 100.0
+----------------------------------------
+PART	2 0.0
+DET 2 100.0
+----------------------------------------
+X	2 0.0
+DET 2 100.0
+----------------------------------------
+CCONJ	1 0.0
+DET 1 100.0
+----------------------------------------
+
+NOUN_Case	18929 100.0	16429 99.2
+DET_Nom	4825 25.5
+Other: 
+DET_Acc	4773 25.2
+Other: 
+DET_Gen	4137 21.9
+Other: 
+DET_Loc	2594 13.7
+Other: 
+DET_Ins	1484 7.8
+Other: 
+DET_Dat	1115 5.9
+Other: 
+DET_Voc	1 0.0
+Other: 
+NOUN_Ins	0 0.0
+Other: 
+NOUN_Acc	0 0.0
+Other: 
+NOUN_Nom	0 0.0
+Other: 
+NOUN_Gen	0 0.0
+Other: 
+NOUN_Loc	0 0.0
+Other: 
+NOUN_Dat	0 0.0
+Other: 
+NOUN_Voc	0 0.0
+Other: 
+----------------------------------------
+NOUN_Number	18929 100.0	16451 99.3
+DET_Sing	12826 67.8
+Other: 
+DET_Plur	6103 32.2
+Other: 
+NOUN_Plur	0 0.0
+Other: 
+NOUN_Sing	0 0.0
+Other: 
+----------------------------------------
+NOUN_Animacy	18929 100.0	0 0.0
+DET_Inan	17327 91.5
+Other: 
+DET_Anim	1602 8.5
+Other: 
+----------------------------------------
+NOUN_Gender	18881 99.7	11091 99.6
+DET_Masc	7439 39.4
+Other: 
+DET_Fem	6907 36.6
+Other: 
+DET_Neut	4535 24.0
+Other: 
+NOUN_Masc	0 0.0
+Other: 
+NOUN_Fem	0 0.0
+Other: 
+NOUN_Neut	0 0.0
+Other: 
+----------------------------------------
+PRON_Case	431 96.0	420 97.4
+DET_Nom	301 69.8
+Other: 
+DET_Acc	67 15.5
+Other: 
+DET_Gen	26 6.0
+Other: 
+DET_Dat	18 4.2
+Other: 
+DET_Loc	11 2.6
+Other: 
+DET_Ins	8 1.9
+Other: 
+PRON_Nom	0 0.0
+Other: 
+PRON_Acc	0 0.0
+Other: 
+PRON_Ins	0 0.0
+Other: 
+PRON_Dat	0 0.0
+Other: 
+PRON_Gen	0 0.0
+Other: 
+PRON_Loc	0 0.0
+Other: 
+----------------------------------------
+VERB_Aspect	426 100.0	0 0.0
+DET_Imp	264 62.0
+Other: 
+DET_Perf	162 38.0
+Other: 
+----------------------------------------
+VERB_VerbForm	426 100.0	0 0.0
+DET_Fin	274 64.3
+Other: 
+DET_Inf	91 21.4
+Other: 
+DET_Part	47 11.0
+Other: 
+DET_Conv	14 3.3
+Other: 
+----------------------------------------
+VERB_Voice	426 100.0	0 0.0
+DET_Act	316 74.2
+Other: 
+DET_Mid	83 19.5
+Other: 
+DET_Pass	27 6.3
+Other: 
+----------------------------------------
+PRON_Number	355 79.1	350 98.6
+DET_Sing	242 68.2
+Other: 
+DET_Plur	113 31.8
+Other: 
+PRON_Sing	0 0.0
+Other: 
+PRON_Plur	0 0.0
+Other: 
+----------------------------------------
+ADJ_Degree	347 100.0	0 0.0
+DET_Pos	329 94.8
+Other: 
+DET_Cmp	16 4.6
+Other: 
+DET_Sup	2 0.6
+Other: 
+----------------------------------------
+ADJ_Number	331 95.4	315 95.7
+DET_Sing	232 70.1
+Other: 
+DET_Plur	99 29.9
+Other: 
+ADJ_Sing	0 0.0
+Other: 
+ADJ_Plur	0 0.0
+Other: 
+----------------------------------------
+VERB_Tense	329 77.2	0 0.0
+DET_Past	154 46.8
+Other: 
+DET_Pres	140 42.6
+Other: 
+DET_Fut	35 10.6
+Other: 
+----------------------------------------
+VERB_Number	321 75.4	210 65.6
+DET_Sing	204 63.6
+Other: 
+DET_Plur	117 36.4
+Other: 
+VERB_Plur	0 0.0
+Other: 
+VERB_Sing	0 0.0
+Other: 
+----------------------------------------
+ADJ_Case	294 84.7	278 95.2
+DET_Nom	135 45.9
+Other: 
+DET_Acc	50 17.0
+Other: 
+DET_Ins	48 16.3
+Other: 
+DET_Gen	36 12.2
+Other: 
+DET_Dat	16 5.4
+Other: 
+DET_Loc	9 3.1
+Other: 
+ADJ_Nom	0 0.0
+Other: 
+ADJ_Acc	0 0.0
+Other: 
+ADJ_Ins	0 0.0
+Other: 
+ADJ_Gen	0 0.0
+Other: 
+ADJ_Loc	0 0.0
+Other: 
+ADJ_Dat	0 0.0
+Other: 
+----------------------------------------
+VERB_Mood	274 64.3	0 0.0
+DET_Ind	268 97.8
+Other: 
+DET_Imp	6 2.2
+Other: 
+----------------------------------------
+PRON_Gender	240 53.5	234 97.9
+DET_Neut	234 97.5
+Other: 
+DET_Fem	4 1.7
+Other: 
+DET_Masc	2 0.8
+Other: 
+PRON_Neut	0 0.0
+Other: 
+PRON_Masc	0 0.0
+Other: 
+PRON_Fem	0 0.0
+Other: 
+----------------------------------------
+PRON_Animacy	240 53.5	0 0.0
+DET_Inan	234 97.5
+Other: 
+DET_Anim	6 2.5
+Other: 
+----------------------------------------
+ADJ_Gender	232 66.9	210 95.5
+DET_Masc	91 39.2
+Other: 
+DET_Fem	84 36.2
+Other: 
+DET_Neut	57 24.6
+Other: 
+ADJ_Neut	0 0.0
+Other: 
+ADJ_Fem	0 0.0
+Other: 
+ADJ_Masc	0 0.0
+Other: 
+----------------------------------------
+PROPN_Case	216 93.9	203 100.0
+DET_Nom	70 32.4
+Other: 
+DET_Gen	50 23.1
+Other: 
+DET_Acc	41 19.0
+Other: 
+DET_Loc	23 10.6
+Other: 
+DET_Dat	20 9.3
+Other: 
+DET_Ins	12 5.6
+Other: 
+PROPN_Acc	0 0.0
+Other: 
+PROPN_Nom	0 0.0
+Other: 
+PROPN_Loc	0 0.0
+Other: 
+PROPN_Dat	0 0.0
+Other: 
+PROPN_Gen	0 0.0
+Other: 
+PROPN_Ins	0 0.0
+Other: 
+----------------------------------------
+PROPN_Gender	216 93.9	173 100.0
+DET_Masc	102 47.2
+Other: 
+DET_Fem	94 43.5
+Other: 
+DET_Neut	20 9.3
+Other: 
+PROPN_Fem	0 0.0
+Other: 
+PROPN_Neut	0 0.0
+Other: 
+PROPN_Masc	0 0.0
+Other: 
+----------------------------------------
+PROPN_Number	216 93.9	201 99.0
+DET_Sing	187 86.6
+Other: 
+DET_Plur	29 13.4
+Other: 
+PROPN_Sing	0 0.0
+Other: 
+PROPN_Plur	0 0.0
+Other: 
+----------------------------------------
+PROPN_Animacy	216 93.9	0 0.0
+DET_Inan	165 76.4
+Other: 
+DET_Anim	51 23.6
+Other: 
+----------------------------------------
+VERB_Person	155 36.4	0 0.0
+DET_3	113 72.9
+Other: 
+DET_1	27 17.4
+Other: 
+DET_2	15 9.7
+Other: 
+----------------------------------------
+NOUN_Prep	116 0.6	8 44.4
+DET_в	45 38.8
+DET_по	15 12.9
+DET_на	10 8.6
+DET_с	9 7.8
+DET_для	9 7.8
+DET_от	4 3.4
+DET_к	3 2.6
+DET_за	3 2.6
+DET_между	3 2.6
+DET_из	3 2.6
+DET_о	2 1.7
+DET_впереди	1 0.9
+DET_над	1 0.9
+DET_у	1 0.9
+DET_после	1 0.9
+DET_вокруг	1 0.9
+DET_со	1 0.9
+DET_об	1 0.9
+DET_под	1 0.9
+DET_при	1 0.9
+DET_около	1 0.9
+NOUN_с	0 0.0
+NOUN_по	0 0.0
+NOUN_для	0 0.0
+NOUN_к	0 0.0
+NOUN_о	0 0.0
+NOUN_у	0 0.0
+NOUN_на	0 0.0
+NOUN_вокруг	0 0.0
+NOUN_от	0 0.0
+----------------------------------------
+PRON_Person	115 25.6	0 0.0
+DET_3	64 55.7
+Other: 
+DET_1	49 42.6
+Other: 
+DET_2	2 1.7
+Other: 
+----------------------------------------
+VERB_Gender	109 25.6	49 61.3
+DET_Masc	63 57.8
+Other: 
+DET_Fem	25 22.9
+Other: 
+DET_Neut	21 19.3
+Other: 
+VERB_Masc	0 0.0
+Other: 
+VERB_Neut	0 0.0
+Other: 
+VERB_Fem	0 0.0
+Other: 
+----------------------------------------
+DET_Case	104 98.1	103 99.0
+DET_Nom	41 39.4
+Other: 
+DET_Acc	27 26.0
+Other: 
+DET_Gen	15 14.4
+Other: 
+DET_Loc	7 6.7
+Other: 
+DET_Dat	7 6.7
+Other: 
+DET_Ins	7 6.7
+Other: 
+----------------------------------------
+DET_Number	104 98.1	102 98.1
+DET_Sing	68 65.4
+Other: 
+DET_Plur	36 34.6
+Other: 
+----------------------------------------
+DET_Gender	68 64.2	67 98.5
+DET_Masc	26 38.2
+Other: 
+DET_Neut	22 32.4
+Other: 
+DET_Fem	20 29.4
+Other: 
+----------------------------------------
+NUM_Case	65 68.4	61 93.8
+DET_Nom	31 47.7
+Other: 
+DET_Acc	23 35.4
+Other: 
+DET_Gen	8 12.3
+Other: 
+DET_Dat	2 3.1
+Other: 
+DET_Loc	1 1.5
+Other: 
+NUM_Acc	0 0.0
+Other: 
+NUM_Nom	0 0.0
+Other: 
+NUM_Gen	0 0.0
+Other: 
+NUM_Dat	0 0.0
+Other: 
+NUM_Loc	0 0.0
+Other: 
+----------------------------------------
+DET_Degree	62 58.5	0 0.0
+DET_Pos	62 100.0
+Other: 
+----------------------------------------
+VERB_Case	37 8.7	29 78.4
+DET_Nom	17 45.9
+Other: 
+DET_Gen	7 18.9
+Other: 
+DET_Ins	5 13.5
+Other: 
+DET_Acc	4 10.8
+Other: 
+DET_Dat	2 5.4
+Other: 
+DET_Loc	2 5.4
+Other: 
+VERB_Acc	0 0.0
+Other: 
+VERB_Nom	0 0.0
+Other: 
+VERB_Gen	0 0.0
+Other: 
+VERB_Ins	0 0.0
+Other: 
+VERB_Dat	0 0.0
+Other: 
+VERB_Loc	0 0.0
+Other: 
+----------------------------------------
+ADJ_Variant	37 10.7	0 0.0
+DET_Short	37 100.0
+Other: 
+----------------------------------------
+ADV_Degree	34 100.0	0 0.0
+DET_Pos	23 67.6
+Other: 
+DET_Cmp	11 32.4
+Other: 
+----------------------------------------
+ADJ_Animacy	20 5.8	0 0.0
+DET_Anim	10 50.0
+Other: 
+DET_Inan	10 50.0
+Other: 
+----------------------------------------
+NUM_Animacy	16 16.8	0 0.0
+DET_Inan	15 93.8
+Other: 
+DET_Anim	1 6.2
+Other: 
+----------------------------------------
+PRON_Prep	15 3.3	1 50.0
+DET_в	2 13.3
+DET_при	2 13.3
+DET_от	2 13.3
+DET_для	2 13.3
+DET_с	1 6.7
+DET_по	1 6.7
+DET_ради	1 6.7
+DET_над	1 6.7
+DET_о	1 6.7
+DET_за	1 6.7
+DET_к	1 6.7
+PRON_для	0 0.0
+PRON_к	0 0.0
+----------------------------------------
+DET_Animacy	11 10.4	0 0.0
+DET_Inan	11 100.0
+Other: 
+----------------------------------------
+NUM_Gender	11 11.6	2 100.0
+DET_Masc	10 90.9
+Other: 
+DET_Fem	1 9.1
+Other: 
+NUM_Masc	0 0.0
+Other: 
+----------------------------------------
+VERB_Variant	10 2.3	0 0.0
+DET_Short	10 100.0
+Other: 
+----------------------------------------
+DET_Prep	5 4.7	2 100.0
+DET_среди	1 20.0
+DET_вокруг	1 20.0
+DET_с	1 20.0
+DET_у	1 20.0
+DET_между	1 20.0
+----------------------------------------
+VERB_Animacy	2 0.5	0 0.0
+DET_Anim	2 100.0
+Other: 
+----------------------------------------
+X_Foreign	2 100.0	0 0.0
+DET_Yes	2 100.0
+Other: 
+----------------------------------------
+VERB_Prep	1 0.2	0 0.0
+DET_в	1 100.0
+----------------------------------------
+PROPN_Foreign	1 0.4	0 0.0
+DET_Yes	1 100.0
+Other: 
+----------------------------------------
+ADJ_Prep	1 0.3	0 0.0
+DET_на	1 100.0
+----------------------------------------
+PROPN_Prep	1 0.4	1 100.0
+DET_к	1 100.0
+PROPN_к	0 0.0
+----------------------------------------
+NUM_Prep	1 1.1	0 0.0
+DET_в	1 100.0
+NUM_в	0 0.0
+----------------------------------------

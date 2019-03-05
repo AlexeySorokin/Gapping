@@ -1,0 +1,767 @@
+VERB	12196 39.7
+CCONJ 12111 99.3	SCONJ 35 0.3	ADP 35 0.3	ADV 10 0.1	VERB 3 0.0	PART 2 0.0
+----------------------------------------
+NOUN	11297 36.8
+CCONJ 11128 98.5	ADV 94 0.8	SCONJ 65 0.6	PART 9 0.1	ADP 1 0.0
+----------------------------------------
+ADJ	3766 12.3
+CCONJ 3724 98.9	SCONJ 18 0.5	ADV 18 0.5	ADP 4 0.1	ADJ 1 0.0	PRON 1 0.0
+----------------------------------------
+PROPN	1266 4.1
+CCONJ 1250 98.7	ADV 15 1.2	SCONJ 1 0.1
+----------------------------------------
+ADV	1247 4.1
+CCONJ 1227 98.4	SCONJ 13 1.0	ADV 4 0.3	ADP 2 0.2	VERB 1 0.1
+----------------------------------------
+PRON	477 1.6
+CCONJ 472 99.0	SCONJ 2 0.4	ADJ 1 0.2	ADV 1 0.2	VERB 1 0.2
+----------------------------------------
+NUM	173 0.6
+CCONJ 172 99.4	SCONJ 1 0.6
+----------------------------------------
+DET	170 0.6
+CCONJ 169 99.4	ADV 1 0.6
+----------------------------------------
+PART	52 0.2
+CCONJ 52 100.0
+----------------------------------------
+SYM	33 0.1
+CCONJ 32 97.0	ADP 1 3.0
+----------------------------------------
+ADP	15 0.0
+CCONJ 15 100.0
+----------------------------------------
+X	7 0.0
+CCONJ 7 100.0
+----------------------------------------
+INTJ	4 0.0
+CCONJ 4 100.0
+----------------------------------------
+CCONJ	2 0.0
+CCONJ 2 100.0
+----------------------------------------
+
+VERB_Voice	12196 100.0	1 33.3
+CCONJ_Act	8616 70.6
+Other: 
+CCONJ_Mid	2514 20.6
+Other: 
+CCONJ_Pass	981 8.0
+Other: 
+SCONJ_Act	27 0.2
+Other: 
+ADP_Act	18 0.1
+Other: 
+ADP_Mid	9 0.1
+Other: 
+ADP_Pass	8 0.1
+Other: 
+SCONJ_Mid	7 0.1
+Other: 
+ADV_Act	6 0.0
+Other: 
+ADV_Mid	2 0.0
+Other: 
+VERB_Act	2 0.0
+Other: 
+ADV_Pass	2 0.0
+Other: 
+PART_Act	2 0.0
+Other: 
+VERB_Mid	1 0.0
+Other: 
+SCONJ_Pass	1 0.0
+Other: 
+----------------------------------------
+VERB_Aspect	12192 100.0	2 66.7
+CCONJ_Imp	7097 58.2
+Other: 
+CCONJ_Perf	5010 41.1
+Other: 
+ADP_Imp	27 0.2
+Other: 
+SCONJ_Imp	21 0.2
+Other: 
+SCONJ_Perf	14 0.1
+Other: 
+ADP_Perf	8 0.1
+Other: 
+ADV_Imp	6 0.0
+Other: 
+ADV_Perf	4 0.0
+Other: 
+VERB_Imp	3 0.0
+Other: 
+PART_Imp	2 0.0
+Other: 
+----------------------------------------
+VERB_VerbForm	12192 100.0	3 100.0
+CCONJ_Fin	9648 79.1
+Other: 
+CCONJ_Inf	1436 11.8
+Other: 
+CCONJ_Part	894 7.3
+Other: 
+CCONJ_Conv	129 1.1
+Other: 
+ADP_Fin	30 0.2
+Other: 
+SCONJ_Fin	28 0.2
+Other: 
+ADV_Part	5 0.0
+Other: 
+ADV_Fin	4 0.0
+Other: 
+SCONJ_Inf	3 0.0
+Other: 
+SCONJ_Part	3 0.0
+Other: 
+VERB_Fin	3 0.0
+Other: 
+ADP_Part	3 0.0
+Other: 
+ADP_Inf	2 0.0
+Other: 
+PART_Fin	2 0.0
+Other: 
+SCONJ_Conv	1 0.0
+Other: 
+ADV_Conv	1 0.0
+Other: 
+----------------------------------------
+NOUN_Animacy	11293 100.0	0 0.0
+CCONJ_Inan	9355 82.8
+Other: 
+CCONJ_Anim	1769 15.7
+Other: 
+ADV_Inan	73 0.6
+Other: 
+SCONJ_Inan	58 0.5
+Other: 
+ADV_Anim	21 0.2
+Other: 
+PART_Inan	8 0.1
+Other: 
+SCONJ_Anim	7 0.1
+Other: 
+PART_Anim	1 0.0
+Other: 
+ADP_Inan	1 0.0
+Other: 
+----------------------------------------
+NOUN_Case	11292 100.0	0 0.0
+CCONJ_Gen	3347 29.6
+Other: 
+CCONJ_Nom	3184 28.2
+Other: 
+CCONJ_Acc	1723 15.3
+Other: 
+CCONJ_Ins	1237 11.0
+Other: 
+CCONJ_Loc	1009 8.9
+Other: 
+CCONJ_Dat	619 5.5
+Other: 
+ADV_Gen	28 0.2
+Other: 
+ADV_Nom	26 0.2
+Other: 
+SCONJ_Acc	23 0.2
+Other: 
+SCONJ_Nom	15 0.1
+Other: 
+ADV_Loc	15 0.1
+Other: 
+SCONJ_Gen	13 0.1
+Other: 
+ADV_Dat	11 0.1
+Other: 
+ADV_Ins	10 0.1
+Other: 
+SCONJ_Loc	7 0.1
+Other: 
+PART_Acc	5 0.0
+Other: 
+SCONJ_Ins	4 0.0
+Other: 
+ADV_Acc	4 0.0
+Other: 
+PART_Gen	3 0.0
+Other: 
+SCONJ_Dat	3 0.0
+Other: 
+CCONJ_Par	3 0.0
+Other: 
+CCONJ_Voc	1 0.0
+Other: 
+PART_Loc	1 0.0
+Other: 
+ADP_Nom	1 0.0
+Other: 
+----------------------------------------
+NOUN_Number	11292 100.0	0 0.0
+CCONJ_Sing	6935 61.4
+Other: 
+CCONJ_Plur	4188 37.1
+Other: 
+SCONJ_Sing	56 0.5
+Other: 
+ADV_Sing	51 0.5
+Other: 
+ADV_Plur	43 0.4
+Other: 
+PART_Sing	9 0.1
+Other: 
+SCONJ_Plur	9 0.1
+Other: 
+ADP_Plur	1 0.0
+Other: 
+----------------------------------------
+NOUN_Gender	11287 99.9	0 0.0
+CCONJ_Masc	4641 41.1
+Other: 
+CCONJ_Fem	3961 35.1
+Other: 
+CCONJ_Neut	2516 22.3
+Other: 
+ADV_Masc	44 0.4
+Other: 
+ADV_Fem	28 0.2
+Other: 
+SCONJ_Fem	26 0.2
+Other: 
+SCONJ_Masc	24 0.2
+Other: 
+ADV_Neut	22 0.2
+Other: 
+SCONJ_Neut	15 0.1
+Other: 
+PART_Masc	4 0.0
+Other: 
+PART_Fem	3 0.0
+Other: 
+PART_Neut	2 0.0
+Other: 
+ADP_Fem	1 0.0
+Other: 
+----------------------------------------
+VERB_Tense	10651 87.3	3 100.0
+CCONJ_Past	5543 52.0
+Other: 
+CCONJ_Pres	4232 39.7
+Other: 
+CCONJ_Fut	796 7.5
+Other: 
+ADP_Pres	20 0.2
+Other: 
+SCONJ_Past	17 0.2
+Other: 
+SCONJ_Pres	13 0.1
+Other: 
+ADP_Past	11 0.1
+Other: 
+ADV_Pres	6 0.1
+Other: 
+ADV_Past	4 0.0
+Other: 
+VERB_Past	2 0.0
+Other: 
+ADP_Fut	2 0.0
+Other: 
+SCONJ_Fut	2 0.0
+Other: 
+PART_Pres	2 0.0
+Other: 
+VERB_Pres	1 0.0
+Other: 
+----------------------------------------
+VERB_Number	10620 87.1	3 100.0
+CCONJ_Sing	7000 65.9
+Other: 
+CCONJ_Plur	3542 33.4
+Other: 
+SCONJ_Sing	23 0.2
+Other: 
+ADP_Sing	21 0.2
+Other: 
+ADP_Plur	12 0.1
+Other: 
+SCONJ_Plur	8 0.1
+Other: 
+ADV_Plur	5 0.0
+Other: 
+ADV_Sing	4 0.0
+Other: 
+VERB_Sing	3 0.0
+Other: 
+PART_Plur	1 0.0
+Other: 
+PART_Sing	1 0.0
+Other: 
+----------------------------------------
+VERB_Mood	9715 79.7	3 100.0
+CCONJ_Ind	9548 98.3
+Other: 
+CCONJ_Imp	100 1.0
+Other: 
+ADP_Ind	30 0.3
+Other: 
+SCONJ_Ind	28 0.3
+Other: 
+ADV_Ind	4 0.0
+Other: 
+VERB_Ind	3 0.0
+Other: 
+PART_Ind	2 0.0
+Other: 
+----------------------------------------
+VERB_Person	4902 40.2	1 100.0
+CCONJ_3	4248 86.7
+Other: 
+CCONJ_1	387 7.9
+Other: 
+CCONJ_2	225 4.6
+Other: 
+ADP_3	22 0.4
+Other: 
+SCONJ_3	12 0.2
+Other: 
+ADV_3	3 0.1
+Other: 
+PART_3	2 0.0
+Other: 
+VERB_3	1 0.0
+Other: 
+SCONJ_1	1 0.0
+Other: 
+ADV_1	1 0.0
+Other: 
+----------------------------------------
+VERB_Gender	3903 32.0	1 50.0
+CCONJ_Masc	2138 54.8
+Other: 
+CCONJ_Fem	990 25.4
+Other: 
+CCONJ_Neut	753 19.3
+Other: 
+SCONJ_Fem	6 0.2
+Other: 
+SCONJ_Masc	5 0.1
+Other: 
+ADP_Fem	2 0.1
+Other: 
+VERB_Fem	2 0.1
+Other: 
+ADP_Masc	2 0.1
+Other: 
+ADP_Neut	2 0.1
+Other: 
+ADV_Neut	1 0.0
+Other: 
+ADV_Masc	1 0.0
+Other: 
+SCONJ_Neut	1 0.0
+Other: 
+----------------------------------------
+ADJ_Degree	3766 100.0	18 94.7
+CCONJ_Pos	3559 94.5
+Other: 
+CCONJ_Cmp	162 4.3
+Other: 
+ADV_Pos	18 0.5
+Other: 
+SCONJ_Pos	16 0.4
+Other: 
+CCONJ_Sup	3 0.1
+Other: 
+ADP_Pos	3 0.1
+Other: 
+SCONJ_Cmp	2 0.1
+Other: 
+ADJ_Pos	1 0.0
+Other: 
+ADP_Cmp	1 0.0
+Other: 
+PRON_Pos	1 0.0
+Other: 
+----------------------------------------
+ADJ_Number	3600 95.6	0 0.0
+CCONJ_Sing	2341 65.0
+Other: 
+CCONJ_Plur	1220 33.9
+Other: 
+SCONJ_Sing	15 0.4
+Other: 
+ADV_Sing	9 0.2
+Other: 
+ADV_Plur	9 0.2
+Other: 
+ADP_Sing	2 0.1
+Other: 
+ADJ_Plur	1 0.0
+Other: 
+ADP_Plur	1 0.0
+Other: 
+PRON_Plur	1 0.0
+Other: 
+SCONJ_Plur	1 0.0
+Other: 
+----------------------------------------
+ADJ_Case	2487 66.0	0 0.0
+CCONJ_Nom	721 29.0
+Other: 
+CCONJ_Gen	698 28.1
+Other: 
+CCONJ_Acc	377 15.2
+Other: 
+CCONJ_Ins	359 14.4
+Other: 
+CCONJ_Loc	184 7.4
+Other: 
+CCONJ_Dat	114 4.6
+Other: 
+ADV_Gen	7 0.3
+Other: 
+SCONJ_Nom	6 0.2
+Other: 
+SCONJ_Gen	3 0.1
+Other: 
+ADV_Nom	3 0.1
+Other: 
+ADV_Acc	3 0.1
+Other: 
+SCONJ_Acc	3 0.1
+Other: 
+SCONJ_Loc	2 0.1
+Other: 
+ADV_Loc	2 0.1
+Other: 
+SCONJ_Dat	1 0.0
+Other: 
+ADJ_Nom	1 0.0
+Other: 
+ADV_Ins	1 0.0
+Other: 
+PRON_Gen	1 0.0
+Other: 
+ADV_Dat	1 0.0
+Other: 
+ADJ_Gen	0 0.0
+Other: 
+----------------------------------------
+ADJ_Gender	2367 62.9	0 0.0
+CCONJ_Neut	823 34.8
+Other: 
+CCONJ_Masc	788 33.3
+Other: 
+CCONJ_Fem	730 30.8
+Other: 
+SCONJ_Fem	10 0.4
+Other: 
+ADV_Masc	4 0.2
+Other: 
+SCONJ_Masc	3 0.1
+Other: 
+ADV_Fem	3 0.1
+Other: 
+ADV_Neut	2 0.1
+Other: 
+SCONJ_Neut	2 0.1
+Other: 
+ADP_Neut	1 0.0
+Other: 
+ADP_Fem	1 0.0
+Other: 
+----------------------------------------
+ADV_Degree	1247 100.0	4 100.0
+CCONJ_Pos	1105 88.6
+Other: 
+CCONJ_Cmp	122 9.8
+Other: 
+SCONJ_Pos	10 0.8
+Other: 
+ADV_Pos	4 0.3
+Other: 
+SCONJ_Cmp	3 0.2
+Other: 
+ADP_Pos	2 0.2
+Other: 
+VERB_Pos	1 0.1
+Other: 
+----------------------------------------
+PROPN_Animacy	1195 94.4	0 0.0
+CCONJ_Inan	803 67.2
+Other: 
+CCONJ_Anim	378 31.6
+Other: 
+ADV_Inan	14 1.2
+Other: 
+----------------------------------------
+PROPN_Case	1195 94.4	0 0.0
+CCONJ_Nom	369 30.9
+Other: 
+CCONJ_Gen	365 30.5
+Other: 
+CCONJ_Loc	174 14.6
+Other: 
+CCONJ_Acc	115 9.6
+Other: 
+CCONJ_Ins	111 9.3
+Other: 
+CCONJ_Dat	47 3.9
+Other: 
+ADV_Loc	6 0.5
+Other: 
+ADV_Gen	4 0.3
+Other: 
+ADV_Acc	2 0.2
+Other: 
+ADV_Nom	1 0.1
+Other: 
+ADV_Ins	1 0.1
+Other: 
+----------------------------------------
+PROPN_Number	1195 94.4	0 0.0
+CCONJ_Sing	1113 93.1
+Other: 
+CCONJ_Plur	68 5.7
+Other: 
+ADV_Sing	13 1.1
+Other: 
+ADV_Plur	1 0.1
+Other: 
+----------------------------------------
+PROPN_Gender	1162 91.8	0 0.0
+CCONJ_Masc	672 57.8
+Other: 
+CCONJ_Fem	426 36.7
+Other: 
+CCONJ_Neut	51 4.4
+Other: 
+ADV_Fem	7 0.6
+Other: 
+ADV_Masc	6 0.5
+Other: 
+----------------------------------------
+ADJ_Variant	1113 29.6	0 0.0
+CCONJ_Short	1108 99.6
+Other: 
+ADP_Short	3 0.3
+Other: 
+SCONJ_Short	1 0.1
+Other: 
+ADV_Short	1 0.1
+Other: 
+----------------------------------------
+VERB_Variant	517 4.2	0 0.0
+CCONJ_Short	513 99.2
+Other: 
+ADP_Short	3 0.6
+Other: 
+ADV_Short	1 0.2
+Other: 
+----------------------------------------
+PRON_Case	477 100.0	0 0.0
+CCONJ_Nom	167 35.0
+Other: 
+CCONJ_Gen	90 18.9
+Other: 
+CCONJ_Loc	69 14.5
+Other: 
+CCONJ_Dat	64 13.4
+Other: 
+CCONJ_Acc	52 10.9
+Other: 
+CCONJ_Ins	30 6.3
+Other: 
+SCONJ_Nom	2 0.4
+Other: 
+ADJ_Gen	1 0.2
+Other: 
+ADV_Dat	1 0.2
+Other: 
+VERB_Nom	1 0.2
+Other: 
+----------------------------------------
+VERB_Case	388 3.2	0 0.0
+CCONJ_Nom	165 42.5
+Other: 
+CCONJ_Gen	91 23.5
+Other: 
+CCONJ_Acc	55 14.2
+Other: 
+CCONJ_Ins	41 10.6
+Other: 
+CCONJ_Dat	16 4.1
+Other: 
+CCONJ_Loc	13 3.4
+Other: 
+ADV_Gen	2 0.5
+Other: 
+ADV_Nom	1 0.3
+Other: 
+SCONJ_Gen	1 0.3
+Other: 
+SCONJ_Acc	1 0.3
+Other: 
+ADV_Loc	1 0.3
+Other: 
+SCONJ_Nom	1 0.3
+Other: 
+----------------------------------------
+PRON_Number	342 71.7	0 0.0
+CCONJ_Sing	271 79.2
+Other: 
+CCONJ_Plur	68 19.9
+Other: 
+ADJ_Plur	1 0.3
+Other: 
+ADV_Plur	1 0.3
+Other: 
+SCONJ_Sing	1 0.3
+Other: 
+PRON_Plur	0 0.0
+Other: 
+----------------------------------------
+PRON_Gender	254 53.2	0 0.0
+CCONJ_Neut	208 81.9
+Other: 
+CCONJ_Masc	25 9.8
+Other: 
+CCONJ_Fem	20 7.9
+Other: 
+SCONJ_Masc	1 0.4
+Other: 
+----------------------------------------
+ADJ_Animacy	236 6.3	0 0.0
+CCONJ_Inan	201 85.2
+Other: 
+CCONJ_Anim	32 13.6
+Other: 
+ADV_Inan	2 0.8
+Other: 
+SCONJ_Inan	1 0.4
+Other: 
+----------------------------------------
+PRON_Animacy	218 45.7	0 0.0
+CCONJ_Inan	206 94.5
+Other: 
+CCONJ_Anim	11 5.0
+Other: 
+ADJ_Anim	1 0.5
+Other: 
+----------------------------------------
+DET_Case	170 100.0	0 0.0
+CCONJ_Nom	72 42.4
+Other: 
+CCONJ_Acc	31 18.2
+Other: 
+CCONJ_Gen	28 16.5
+Other: 
+CCONJ_Ins	15 8.8
+Other: 
+CCONJ_Loc	12 7.1
+Other: 
+CCONJ_Dat	11 6.5
+Other: 
+ADV_Gen	1 0.6
+Other: 
+----------------------------------------
+DET_Number	170 100.0	0 0.0
+CCONJ_Sing	100 58.8
+Other: 
+CCONJ_Plur	69 40.6
+Other: 
+ADV_Plur	1 0.6
+Other: 
+----------------------------------------
+PRON_Person	124 26.0	0 0.0
+CCONJ_3	70 56.5
+Other: 
+CCONJ_1	44 35.5
+Other: 
+CCONJ_2	8 6.5
+Other: 
+ADV_2	1 0.8
+Other: 
+SCONJ_3	1 0.8
+Other: 
+----------------------------------------
+DET_Gender	101 59.4	0 0.0
+CCONJ_Masc	44 43.6
+Other: 
+CCONJ_Neut	29 28.7
+Other: 
+CCONJ_Fem	28 27.7
+Other: 
+----------------------------------------
+NUM_Case	75 43.4	0 0.0
+CCONJ_Nom	40 53.3
+Other: 
+CCONJ_Acc	20 26.7
+Other: 
+CCONJ_Gen	10 13.3
+Other: 
+CCONJ_Ins	2 2.7
+Other: 
+SCONJ_Nom	1 1.3
+Other: 
+CCONJ_Loc	1 1.3
+Other: 
+CCONJ_Dat	1 1.3
+Other: 
+----------------------------------------
+NUM_Gender	38 22.0	0 0.0
+CCONJ_Masc	24 63.2
+Other: 
+CCONJ_Fem	12 31.6
+Other: 
+CCONJ_Neut	2 5.3
+Other: 
+----------------------------------------
+VERB_Animacy	38 0.3	0 0.0
+CCONJ_Inan	29 76.3
+Other: 
+CCONJ_Anim	9 23.7
+Other: 
+----------------------------------------
+NOUN_Prep	14 0.1	0 0.0
+CCONJ_от	3 21.4
+SCONJ_в	3 21.4
+CCONJ_в	1 7.1
+SCONJ_у	1 7.1
+SCONJ_ради	1 7.1
+CCONJ_на	1 7.1
+CCONJ_к	1 7.1
+CCONJ_между	1 7.1
+SCONJ_к	1 7.1
+SCONJ_на	1 7.1
+----------------------------------------
+PROPN_Foreign	13 1.0	0 0.0
+CCONJ_Yes	12 92.3
+Other: 
+ADV_Yes	1 7.7
+Other: 
+----------------------------------------
+NUM_Animacy	12 6.9	0 0.0
+CCONJ_Inan	12 100.0
+Other: 
+----------------------------------------
+X_Foreign	7 100.0	0 0.0
+CCONJ_Yes	7 100.0
+Other: 
+----------------------------------------
+DET_Degree	5 2.9	0 0.0
+CCONJ_Pos	5 100.0
+Other: 
+----------------------------------------
+PRON_Prep	2 0.4	0 0.0
+CCONJ_с	1 50.0
+ADJ_у	1 50.0
+----------------------------------------
+ADV_Prep	1 0.1	0 0.0
+CCONJ_во	1 100.0
+----------------------------------------
+VERB_Prep	1 0.0	0 0.0
+CCONJ_на	1 100.0
+----------------------------------------

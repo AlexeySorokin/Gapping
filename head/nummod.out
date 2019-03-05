@@ -1,0 +1,473 @@
+NOUN	6569 72.0
+NUM 6562 99.9	NOUN 4 0.1	PRON 1 0.0	ADJ 1 0.0	ADV 1 0.0
+----------------------------------------
+VERB	775 8.5
+NUM 775 100.0
+----------------------------------------
+SYM	735 8.1
+NUM 735 100.0
+----------------------------------------
+NUM	712 7.8
+NUM 695 97.6	ADJ 17 2.4
+----------------------------------------
+PROPN	218 2.4
+NUM 218 100.0
+----------------------------------------
+ADJ	76 0.8
+NUM 76 100.0
+----------------------------------------
+ADV	29 0.3
+NUM 29 100.0
+----------------------------------------
+PRON	5 0.1
+NUM 5 100.0
+----------------------------------------
+DET	2 0.0
+NUM 2 100.0
+----------------------------------------
+
+NOUN_Case	6565 99.9	1146 92.6
+NUM_Gen	4615 70.3
+Other: 
+NUM_Loc	1035 15.8
+Other: 
+NUM_Nom	261 4.0
+Other: 
+NUM_Ins	243 3.7
+Other: 
+NUM_Acc	210 3.2
+Other: 
+NUM_Dat	194 3.0
+Other: 
+NOUN_Gen	4 0.1
+Other: 
+PRON_Gen	1 0.0
+Other: 
+ADJ_Loc	1 0.0
+Other: 
+ADV_Gen	1 0.0
+Other: 
+NOUN_Dat	0 0.0
+Other: 
+NOUN_Ins	0 0.0
+Other: 
+NOUN_Loc	0 0.0
+Other: 
+NOUN_Nom	0 0.0
+Other: 
+NOUN_Acc	0 0.0
+Other: 
+----------------------------------------
+NOUN_Animacy	6565 99.9	1 100.0
+NUM_Inan	6104 93.0
+Other: 
+NUM_Anim	454 6.9
+Other: 
+NOUN_Inan	4 0.1
+Other: 
+PRON_Inan	1 0.0
+Other: 
+ADJ_Inan	1 0.0
+Other: 
+ADV_Anim	1 0.0
+Other: 
+----------------------------------------
+NOUN_Number	6565 99.9	3 100.0
+NUM_Plur	3509 53.5
+Other: 
+NUM_Sing	3049 46.4
+Other: 
+NOUN_Plur	4 0.1
+Other: 
+PRON_Plur	1 0.0
+Other: 
+ADJ_Plur	1 0.0
+Other: 
+ADV_Plur	1 0.0
+Other: 
+----------------------------------------
+NOUN_Gender	6562 99.9	379 86.5
+NUM_Masc	4998 76.2
+Other: 
+NUM_Fem	1239 18.9
+Other: 
+NUM_Neut	318 4.8
+Other: 
+NOUN_Fem	3 0.0
+Other: 
+NOUN_Masc	1 0.0
+Other: 
+PRON_Fem	1 0.0
+Other: 
+ADJ_Masc	1 0.0
+Other: 
+ADV_Fem	1 0.0
+Other: 
+NOUN_Neut	0 0.0
+Other: 
+----------------------------------------
+VERB_Aspect	775 100.0	0 0.0
+NUM_Perf	505 65.2
+Other: 
+NUM_Imp	270 34.8
+Other: 
+----------------------------------------
+VERB_VerbForm	775 100.0	0 0.0
+NUM_Fin	568 73.3
+Other: 
+NUM_Part	134 17.3
+Other: 
+NUM_Inf	60 7.7
+Other: 
+NUM_Conv	13 1.7
+Other: 
+----------------------------------------
+VERB_Voice	775 100.0	0 0.0
+NUM_Act	448 57.8
+Other: 
+NUM_Mid	204 26.3
+Other: 
+NUM_Pass	123 15.9
+Other: 
+----------------------------------------
+VERB_Tense	713 92.0	0 0.0
+NUM_Past	492 69.0
+Other: 
+NUM_Pres	153 21.5
+Other: 
+NUM_Fut	68 9.5
+Other: 
+----------------------------------------
+VERB_Number	702 90.6	0 0.0
+NUM_Sing	544 77.5
+Other: 
+NUM_Plur	158 22.5
+Other: 
+----------------------------------------
+VERB_Mood	568 73.3	0 0.0
+NUM_Ind	566 99.6
+Other: 
+NUM_Imp	2 0.4
+Other: 
+----------------------------------------
+VERB_Gender	389 50.2	50 51.0
+NUM_Masc	211 54.2
+Other: 
+NUM_Fem	97 24.9
+Other: 
+NUM_Neut	81 20.8
+Other: 
+VERB_Masc	0 0.0
+Other: 
+VERB_Neut	0 0.0
+Other: 
+VERB_Fem	0 0.0
+Other: 
+----------------------------------------
+NOUN_Prep	263 4.0	4 5.3
+NUM_в	96 36.5
+NUM_на	37 14.1
+NUM_с	21 8.0
+NUM_по	21 8.0
+NUM_после	11 4.2
+NUM_к	11 4.2
+NUM_за	9 3.4
+NUM_со	7 2.7
+NUM_от	6 2.3
+NUM_при	6 2.3
+NUM_до	6 2.3
+NUM_из	6 2.3
+NUM_для	4 1.5
+NUM_о	4 1.5
+NUM_через	3 1.1
+NUM_около	3 1.1
+NUM_под	2 0.8
+NUM_во	2 0.8
+NUM_про	1 0.4
+NUM_подобно	1 0.4
+NUM_среди	1 0.4
+NUM_ввиду	1 0.4
+NUM_об	1 0.4
+NUM_против	1 0.4
+NUM_у	1 0.4
+NUM_согласно	1 0.4
+NOUN_на	0 0.0
+NOUN_в	0 0.0
+NOUN_за	0 0.0
+NOUN_от	0 0.0
+NOUN_по	0 0.0
+NOUN_после	0 0.0
+NOUN_с	0 0.0
+NOUN_до	0 0.0
+NOUN_к	0 0.0
+NOUN_среди	0 0.0
+NOUN_для	0 0.0
+NOUN_через	0 0.0
+NOUN_о	0 0.0
+NOUN_об	0 0.0
+NOUN_против	0 0.0
+----------------------------------------
+VERB_Person	204 26.3	0 0.0
+NUM_3	196 96.1
+Other: 
+NUM_1	6 2.9
+Other: 
+NUM_2	2 1.0
+Other: 
+----------------------------------------
+PROPN_Animacy	187 85.8	0 0.0
+NUM_Inan	95 50.8
+Other: 
+NUM_Anim	92 49.2
+Other: 
+----------------------------------------
+PROPN_Gender	187 85.8	3 75.0
+NUM_Masc	156 83.4
+Other: 
+NUM_Fem	25 13.4
+Other: 
+NUM_Neut	6 3.2
+Other: 
+PROPN_Masc	0 0.0
+Other: 
+PROPN_Neut	0 0.0
+Other: 
+----------------------------------------
+PROPN_Number	187 85.8	0 0.0
+NUM_Sing	171 91.4
+Other: 
+NUM_Plur	16 8.6
+Other: 
+----------------------------------------
+PROPN_Case	186 85.3	7 87.5
+NUM_Nom	90 48.4
+Other: 
+NUM_Gen	59 31.7
+Other: 
+NUM_Loc	13 7.0
+Other: 
+NUM_Ins	11 5.9
+Other: 
+NUM_Acc	9 4.8
+Other: 
+NUM_Dat	4 2.2
+Other: 
+PROPN_Ins	0 0.0
+Other: 
+PROPN_Gen	0 0.0
+Other: 
+PROPN_Loc	0 0.0
+Other: 
+PROPN_Nom	0 0.0
+Other: 
+----------------------------------------
+NUM_Prep	75 10.5	0 0.0
+NUM_с	28 37.3
+NUM_в	13 17.3
+NUM_от	10 13.3
+NUM_на	6 8.0
+NUM_по	6 8.0
+NUM_до	6 8.0
+NUM_около	2 2.7
+NUM_за	1 1.3
+ADJ_в	1 1.3
+NUM_между	1 1.3
+NUM_к	1 1.3
+----------------------------------------
+VERB_Variant	74 9.5	0 0.0
+NUM_Short	74 100.0
+Other: 
+----------------------------------------
+ADJ_Degree	73 96.1	0 0.0
+NUM_Pos	70 95.9
+Other: 
+NUM_Cmp	2 2.7
+Other: 
+NUM_Sup	1 1.4
+Other: 
+----------------------------------------
+ADJ_Number	71 93.4	0 0.0
+NUM_Sing	47 66.2
+Other: 
+NUM_Plur	24 33.8
+Other: 
+----------------------------------------
+VERB_Case	60 7.7	3 21.4
+NUM_Gen	23 38.3
+Other: 
+NUM_Nom	18 30.0
+Other: 
+NUM_Acc	7 11.7
+Other: 
+NUM_Loc	5 8.3
+Other: 
+NUM_Dat	4 6.7
+Other: 
+NUM_Ins	3 5.0
+Other: 
+VERB_Nom	0 0.0
+Other: 
+VERB_Acc	0 0.0
+Other: 
+VERB_Gen	0 0.0
+Other: 
+VERB_Ins	0 0.0
+Other: 
+----------------------------------------
+ADJ_Case	57 75.0	12 92.3
+NUM_Gen	20 35.1
+Other: 
+NUM_Nom	12 21.1
+Other: 
+NUM_Acc	10 17.5
+Other: 
+NUM_Ins	9 15.8
+Other: 
+NUM_Loc	4 7.0
+Other: 
+NUM_Dat	2 3.5
+Other: 
+ADJ_Loc	0 0.0
+Other: 
+ADJ_Nom	0 0.0
+Other: 
+ADJ_Gen	0 0.0
+Other: 
+----------------------------------------
+ADJ_Gender	47 61.8	5 71.4
+NUM_Masc	29 61.7
+Other: 
+NUM_Neut	10 21.3
+Other: 
+NUM_Fem	8 17.0
+Other: 
+ADJ_Fem	0 0.0
+Other: 
+ADJ_Masc	0 0.0
+Other: 
+ADJ_Neut	0 0.0
+Other: 
+----------------------------------------
+NUM_Case	39 5.5	33 84.6
+NUM_Gen	28 71.8
+Other: 
+NUM_Nom	5 12.8
+Other: 
+NUM_Ins	3 7.7
+Other: 
+NUM_Loc	2 5.1
+Other: 
+ADJ_Gen	1 2.6
+Other: 
+----------------------------------------
+SYM_Prep	36 4.9	0 0.0
+NUM_до	9 25.0
+NUM_в	8 22.2
+NUM_от	5 13.9
+NUM_около	4 11.1
+NUM_за	3 8.3
+NUM_на	2 5.6
+NUM_с	2 5.6
+NUM_под	2 5.6
+NUM_порядка	1 2.8
+SYM_в	0 0.0
+SYM_с	0 0.0
+----------------------------------------
+ADV_Degree	29 100.0	0 0.0
+NUM_Cmp	17 58.6
+Other: 
+NUM_Pos	12 41.4
+Other: 
+----------------------------------------
+PROPN_Foreign	19 8.7	0 0.0
+NUM_Yes	19 100.0
+Other: 
+----------------------------------------
+PROPN_Prep	18 8.3	0 0.0
+NUM_в	7 38.9
+NUM_на	4 22.2
+NUM_с	2 11.1
+NUM_у	1 5.6
+NUM_около	1 5.6
+NUM_после	1 5.6
+NUM_из	1 5.6
+NUM_согласно	1 5.6
+PROPN_в	0 0.0
+PROPN_согласно	0 0.0
+----------------------------------------
+ADJ_Variant	14 18.4	0 0.0
+NUM_Short	14 100.0
+Other: 
+----------------------------------------
+NUM_Gender	8 1.1	2 100.0
+NUM_Masc	6 75.0
+Other: 
+NUM_Neut	1 12.5
+Other: 
+NUM_Fem	1 12.5
+Other: 
+----------------------------------------
+VERB_Animacy	7 0.9	0 0.0
+NUM_Inan	5 71.4
+Other: 
+NUM_Anim	2 28.6
+Other: 
+----------------------------------------
+ADJ_Animacy	6 7.9	0 0.0
+NUM_Inan	6 100.0
+Other: 
+----------------------------------------
+PRON_Case	5 100.0	3 75.0
+NUM_Dat	3 60.0
+Other: 
+NUM_Nom	2 40.0
+Other: 
+PRON_Dat	0 0.0
+Other: 
+PRON_Nom	0 0.0
+Other: 
+----------------------------------------
+PRON_Number	5 100.0	0 0.0
+NUM_Plur	3 60.0
+Other: 
+NUM_Sing	2 40.0
+Other: 
+----------------------------------------
+PRON_Person	3 60.0	0 0.0
+NUM_3	1 33.3
+Other: 
+NUM_2	1 33.3
+Other: 
+NUM_1	1 33.3
+Other: 
+----------------------------------------
+VERB_Prep	3 0.4	0 0.0
+NUM_на	2 66.7
+NUM_между	1 33.3
+----------------------------------------
+DET_Case	2 100.0	2 100.0
+NUM_Gen	2 100.0
+Other: 
+DET_Gen	0 0.0
+Other: 
+----------------------------------------
+DET_Gender	2 100.0	2 100.0
+NUM_Masc	2 100.0
+Other: 
+DET_Masc	0 0.0
+Other: 
+----------------------------------------
+DET_Number	2 100.0	0 0.0
+NUM_Sing	2 100.0
+Other: 
+----------------------------------------
+PRON_Gender	2 40.0	0 0.0
+NUM_Neut	2 100.0
+Other: 
+PRON_Neut	0 0.0
+Other: 
+----------------------------------------
+PRON_Animacy	2 40.0	0 0.0
+NUM_Inan	2 100.0
+Other: 
+----------------------------------------

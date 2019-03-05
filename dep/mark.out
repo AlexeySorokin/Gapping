@@ -1,0 +1,51 @@
+SCONJ	15015 91.9
+VERB 10226 68.1	NOUN 2397 16.0	ADJ 1475 9.8	ADV 488 3.3	PROPN 198 1.3	PRON 128 0.9	DET 39 0.3	NUM 34 0.2	PART 18 0.1	SCONJ 4 0.0	SYM 3 0.0	X 2 0.0	CCONJ 2 0.0	ADP 1 0.0
+----------------------------------------
+ADV	682 4.2
+VERB 459 67.3	ADJ 87 12.8	NOUN 79 11.6	ADV 35 5.1	PRON 10 1.5	PROPN 6 0.9	DET 4 0.6	NUM 2 0.3
+----------------------------------------
+PRON	409 2.5
+VERB 175 42.8	NOUN 167 40.8	ADV 21 5.1	ADJ 21 5.1	DET 12 2.9	PRON 8 2.0	SYM 2 0.5	NUM 1 0.2	X 1 0.2	PROPN 1 0.2
+----------------------------------------
+ADP	168 1.0
+VERB 167 99.4	ADJ 1 0.6
+----------------------------------------
+NUM	42 0.3
+NOUN 36 85.7	VERB 5 11.9	ADJ 1 2.4
+----------------------------------------
+PART	24 0.1
+VERB 19 79.2	ADV 2 8.3	NOUN 2 8.3	DET 1 4.2
+----------------------------------------
+CCONJ	3 0.0
+VERB 3 100.0
+----------------------------------------
+PROPN	2 0.0
+VERB 2 100.0
+----------------------------------------
+
+SCONJ_Mood	1085 7.2	0 0.0
+Cnd	1085 100.0
+Other: VERB_Ind 342 100.0
+----------------------------------------
+ADV_Degree	682 100.0	116 94.3
+Pos	669 98.1
+Other: ADJ_Pos 81 65.9	ADV_Pos 34 27.6	ADJ_Cmp 6 4.9	DET_Pos 1 0.8	ADV_Cmp 1 0.8
+Cmp	13 1.9
+Other: 
+----------------------------------------
+PRON_Animacy	409 100.0	160 91.4
+Inan	409 100.0
+Other: NOUN_Inan 154 88.0	NOUN_Anim 13 7.4	PRON_Inan 4 2.3	VERB_Inan 1 0.6	PRON_Anim 1 0.6	ADJ_Anim 1 0.6	PROPN_Inan 1 0.6
+----------------------------------------
+PRON_Case	409 100.0	65 31.6
+Nom	409 100.0
+Other: NOUN_Nom 49 23.8	NOUN_Gen 44 21.4	NOUN_Acc 26 12.6	NOUN_Ins 19 9.2	NOUN_Loc 18 8.7	NOUN_Dat 11 5.3	DET_Nom 6 2.9	ADJ_Ins 4 1.9	VERB_Nom 4 1.9	PRON_Nom 4 1.9	DET_Ins 4 1.9	ADJ_Gen 3 1.5	VERB_Ins 3 1.5	PRON_Dat 2 1.0	ADJ_Acc 2 1.0	VERB_Acc 1 0.5	ADJ_Nom 1 0.5	DET_Loc 1 0.5	PRON_Gen 1 0.5	DET_Acc 1 0.5	PROPN_Nom 1 0.5	PRON_Ins 1 0.5
+----------------------------------------
+PRON_Gender	409 100.0	69 30.7
+Neut	409 100.0
+Other: NOUN_Fem 59 26.2	NOUN_Masc 56 24.9	NOUN_Neut 52 23.1	VERB_Masc 15 6.7	VERB_Fem 11 4.9	VERB_Neut 8 3.6	ADJ_Fem 6 2.7	ADJ_Masc 4 1.8	PRON_Neut 4 1.8	ADJ_Neut 4 1.8	DET_Masc 2 0.9	DET_Fem 2 0.9	PROPN_Masc 1 0.4	DET_Neut 1 0.4
+----------------------------------------
+PRON_Number	409 100.0	235 66.2
+Sing	409 100.0
+Other: NOUN_Sing 117 33.0	VERB_Sing 92 25.9	VERB_Plur 56 15.8	NOUN_Plur 50 14.1	ADJ_Sing 14 3.9	DET_Plur 7 2.0	PRON_Sing 6 1.7	DET_Sing 5 1.4	ADJ_Plur 5 1.4	PRON_Plur 2 0.6	PROPN_Sing 1 0.3
+----------------------------------------

@@ -1,0 +1,440 @@
+NOUN	1198 73.0
+PROPN 1031 86.1	X 167 13.9
+----------------------------------------
+PROPN	261 15.9
+PROPN 186 71.3	X 25 9.6	NOUN 25 9.6	VERB 23 8.8	ADJ 1 0.4	ADV 1 0.4
+----------------------------------------
+VERB	125 7.6
+PROPN 95 76.0	X 30 24.0
+----------------------------------------
+X	24 1.5
+NOUN 9 37.5	X 9 37.5	VERB 3 12.5	PROPN 2 8.3	ADJ 1 4.2
+----------------------------------------
+ADJ	12 0.7
+PROPN 6 50.0	X 6 50.0
+----------------------------------------
+NUM	10 0.6
+PROPN 9 90.0	X 1 10.0
+----------------------------------------
+ADV	4 0.2
+X 2 50.0	PROPN 2 50.0
+----------------------------------------
+PART	3 0.2
+PROPN 2 66.7	X 1 33.3
+----------------------------------------
+DET	2 0.1
+PROPN 2 100.0
+----------------------------------------
+ADP	2 0.1
+PROPN 2 100.0
+----------------------------------------
+SYM	1 0.1
+PROPN 1 100.0
+----------------------------------------
+
+NOUN_Animacy	1186 99.0	0 0.0
+PROPN_Inan	873 73.6
+Other: 
+PROPN_Anim	150 12.6
+Other: 
+X_Inan	141 11.9
+Other: 
+X_Anim	22 1.9
+Other: 
+----------------------------------------
+NOUN_Case	1186 99.0	0 0.0
+PROPN_Gen	403 34.0
+Other: 
+PROPN_Nom	316 26.6
+Other: 
+PROPN_Acc	88 7.4
+Other: 
+PROPN_Loc	85 7.2
+Other: 
+PROPN_Ins	83 7.0
+Other: 
+X_Gen	58 4.9
+Other: 
+X_Nom	52 4.4
+Other: 
+PROPN_Dat	48 4.0
+Other: 
+X_Acc	18 1.5
+Other: 
+X_Ins	13 1.1
+Other: 
+X_Dat	13 1.1
+Other: 
+X_Loc	9 0.8
+Other: 
+----------------------------------------
+NOUN_Number	1186 99.0	0 0.0
+PROPN_Sing	815 68.7
+Other: 
+PROPN_Plur	208 17.5
+Other: 
+X_Sing	115 9.7
+Other: 
+X_Plur	48 4.0
+Other: 
+----------------------------------------
+NOUN_Gender	1181 98.6	0 0.0
+PROPN_Masc	476 40.3
+Other: 
+PROPN_Fem	404 34.2
+Other: 
+PROPN_Neut	139 11.8
+Other: 
+X_Masc	92 7.8
+Other: 
+X_Fem	44 3.7
+Other: 
+X_Neut	26 2.2
+Other: 
+----------------------------------------
+NOUN_Prep	331 27.6	0 0.0
+PROPN_в	67 20.2
+PROPN_с	46 13.9
+PROPN_на	38 11.5
+PROPN_из	24 7.3
+PROPN_под	22 6.6
+PROPN_для	16 4.8
+PROPN_по	15 4.5
+PROPN_от	9 2.7
+X_от	8 2.4
+X_по	7 2.1
+X_в	7 2.1
+PROPN_со	6 1.8
+PROPN_к	6 1.8
+PROPN_при	6 1.8
+PROPN_у	5 1.5
+X_для	4 1.2
+PROPN_после	4 1.2
+PROPN_над	3 0.9
+PROPN_во	3 0.9
+X_с	3 0.9
+X_к	3 0.9
+PROPN_между	3 0.9
+X_над	2 0.6
+X_под	2 0.6
+PROPN_до	2 0.6
+PROPN_о	2 0.6
+X_перед	2 0.6
+X_на	2 0.6
+X_до	2 0.6
+PROPN_вокруг	2 0.6
+X_у	1 0.3
+PROPN_подобно	1 0.3
+PROPN_против	1 0.3
+PROPN_за	1 0.3
+X_при	1 0.3
+PROPN_про	1 0.3
+X_через	1 0.3
+PROPN_без	1 0.3
+X_без	1 0.3
+X_из	1 0.3
+----------------------------------------
+PROPN_Foreign	147 56.3	96 100.0
+PROPN_Yes	79 53.7
+Other: 
+NOUN_Yes	25 17.0
+Other: 
+VERB_Yes	23 15.6
+Other: 
+X_Yes	18 12.2
+Other: 
+ADJ_Yes	1 0.7
+Other: 
+ADV_Yes	1 0.7
+Other: 
+----------------------------------------
+VERB_Aspect	125 100.0	0 0.0
+PROPN_Perf	61 48.8
+Other: 
+PROPN_Imp	34 27.2
+Other: 
+X_Imp	19 15.2
+Other: 
+X_Perf	11 8.8
+Other: 
+----------------------------------------
+VERB_VerbForm	125 100.0	0 0.0
+PROPN_Fin	49 39.2
+Other: 
+PROPN_Part	32 25.6
+Other: 
+X_Fin	19 15.2
+Other: 
+PROPN_Inf	11 8.8
+Other: 
+X_Inf	5 4.0
+Other: 
+X_Part	5 4.0
+Other: 
+PROPN_Conv	3 2.4
+Other: 
+X_Conv	1 0.8
+Other: 
+----------------------------------------
+VERB_Voice	125 100.0	0 0.0
+PROPN_Act	47 37.6
+Other: 
+PROPN_Pass	30 24.0
+Other: 
+PROPN_Mid	18 14.4
+Other: 
+X_Act	16 12.8
+Other: 
+X_Mid	9 7.2
+Other: 
+X_Pass	5 4.0
+Other: 
+----------------------------------------
+PROPN_Animacy	110 42.1	0 0.0
+PROPN_Anim	59 53.6
+Other: 
+PROPN_Inan	44 40.0
+Other: 
+X_Inan	5 4.5
+Other: 
+X_Anim	2 1.8
+Other: 
+----------------------------------------
+PROPN_Case	110 42.1	0 0.0
+PROPN_Nom	74 67.3
+Other: 
+PROPN_Gen	23 20.9
+Other: 
+X_Nom	6 5.5
+Other: 
+PROPN_Acc	4 3.6
+Other: 
+PROPN_Ins	2 1.8
+Other: 
+X_Gen	1 0.9
+Other: 
+----------------------------------------
+PROPN_Gender	110 42.1	0 0.0
+PROPN_Masc	89 80.9
+Other: 
+PROPN_Fem	13 11.8
+Other: 
+X_Masc	5 4.5
+Other: 
+X_Neut	1 0.9
+Other: 
+X_Fem	1 0.9
+Other: 
+PROPN_Neut	1 0.9
+Other: 
+----------------------------------------
+PROPN_Number	110 42.1	0 0.0
+PROPN_Sing	101 91.8
+Other: 
+X_Sing	5 4.5
+Other: 
+PROPN_Plur	2 1.8
+Other: 
+X_Plur	2 1.8
+Other: 
+----------------------------------------
+VERB_Tense	108 86.4	0 0.0
+PROPN_Past	59 54.6
+Other: 
+PROPN_Pres	23 21.3
+Other: 
+X_Pres	13 12.0
+Other: 
+X_Past	11 10.2
+Other: 
+PROPN_Fut	2 1.9
+Other: 
+----------------------------------------
+VERB_Number	105 84.0	0 0.0
+PROPN_Sing	59 56.2
+Other: 
+X_Sing	22 21.0
+Other: 
+PROPN_Plur	22 21.0
+Other: 
+X_Plur	2 1.9
+Other: 
+----------------------------------------
+VERB_Mood	68 54.4	0 0.0
+PROPN_Ind	49 72.1
+Other: 
+X_Ind	18 26.5
+Other: 
+X_Imp	1 1.5
+Other: 
+----------------------------------------
+VERB_Gender	60 48.0	0 0.0
+PROPN_Fem	23 38.3
+Other: 
+PROPN_Masc	22 36.7
+Other: 
+X_Masc	6 10.0
+Other: 
+PROPN_Neut	5 8.3
+Other: 
+X_Fem	4 6.7
+Other: 
+----------------------------------------
+VERB_Prep	51 40.8	0 0.0
+PROPN_на	16 31.4
+PROPN_в	15 29.4
+X_на	5 9.8
+X_от	4 7.8
+PROPN_с	3 5.9
+PROPN_от	3 5.9
+X_в	2 3.9
+PROPN_для	1 2.0
+PROPN_по	1 2.0
+PROPN_у	1 2.0
+----------------------------------------
+PROPN_Prep	42 16.1	0 0.0
+VERB_в	5 11.9
+VERB_на	4 9.5
+PROPN_в	4 9.5
+VERB_для	4 9.5
+NOUN_в	3 7.1
+NOUN_к	2 4.8
+PROPN_через	2 4.8
+PROPN_у	2 4.8
+VERB_у	2 4.8
+PROPN_на	2 4.8
+PROPN_для	2 4.8
+VERB_с	1 2.4
+NOUN_о	1 2.4
+VERB_к	1 2.4
+ADV_при	1 2.4
+NOUN_от	1 2.4
+VERB_за	1 2.4
+NOUN_около	1 2.4
+VERB_после	1 2.4
+VERB_из	1 2.4
+X_в	1 2.4
+----------------------------------------
+VERB_Person	32 25.6	0 0.0
+PROPN_3	16 50.0
+Other: 
+X_3	11 34.4
+Other: 
+PROPN_1	2 6.2
+Other: 
+X_1	2 6.2
+Other: 
+X_2	1 3.1
+Other: 
+----------------------------------------
+X_Foreign	24 100.0	11 100.0
+NOUN_Yes	9 37.5
+Other: 
+X_Yes	9 37.5
+Other: 
+VERB_Yes	3 12.5
+Other: 
+PROPN_Yes	2 8.3
+Other: 
+ADJ_Yes	1 4.2
+Other: 
+----------------------------------------
+VERB_Variant	21 16.8	0 0.0
+PROPN_Short	17 81.0
+Other: 
+X_Short	4 19.0
+Other: 
+----------------------------------------
+VERB_Case	16 12.8	0 0.0
+PROPN_Nom	7 43.8
+Other: 
+PROPN_Gen	6 37.5
+Other: 
+PROPN_Loc	2 12.5
+Other: 
+X_Nom	1 6.2
+Other: 
+----------------------------------------
+ADJ_Degree	12 100.0	0 0.0
+X_Pos	6 50.0
+Other: 
+PROPN_Pos	4 33.3
+Other: 
+PROPN_Cmp	2 16.7
+Other: 
+----------------------------------------
+ADJ_Case	10 83.3	0 0.0
+X_Acc	5 50.0
+Other: 
+PROPN_Nom	2 20.0
+Other: 
+PROPN_Acc	1 10.0
+Other: 
+X_Ins	1 10.0
+Other: 
+PROPN_Gen	1 10.0
+Other: 
+----------------------------------------
+ADJ_Number	10 83.3	0 0.0
+X_Sing	6 60.0
+Other: 
+PROPN_Sing	3 30.0
+Other: 
+PROPN_Plur	1 10.0
+Other: 
+----------------------------------------
+ADJ_Gender	9 75.0	0 0.0
+X_Fem	5 55.6
+Other: 
+PROPN_Neut	3 33.3
+Other: 
+X_Masc	1 11.1
+Other: 
+----------------------------------------
+X_Prep	7 29.2	0 0.0
+VERB_на	1 14.3
+NOUN_с	1 14.3
+X_от	1 14.3
+X_из	1 14.3
+NOUN_из	1 14.3
+VERB_в	1 14.3
+NOUN_в	1 14.3
+----------------------------------------
+ADV_Degree	4 100.0	0 0.0
+PROPN_Pos	2 50.0
+Other: 
+X_Cmp	1 25.0
+Other: 
+X_Pos	1 25.0
+Other: 
+----------------------------------------
+NUM_Case	3 30.0	0 0.0
+PROPN_Nom	2 66.7
+Other: 
+PROPN_Loc	1 33.3
+Other: 
+----------------------------------------
+NUM_Gender	3 30.0	0 0.0
+PROPN_Masc	3 100.0
+Other: 
+----------------------------------------
+DET_Case	2 100.0	0 0.0
+PROPN_Acc	2 100.0
+Other: 
+----------------------------------------
+DET_Number	2 100.0	0 0.0
+PROPN_Plur	2 100.0
+Other: 
+----------------------------------------
+ADP_Prep	2 100.0	0 0.0
+PROPN_с	2 100.0
+----------------------------------------
+ADJ_Prep	1 8.3	0 0.0
+PROPN_у	1 100.0
+----------------------------------------
+NUM_Prep	1 10.0	0 0.0
+PROPN_в	1 100.0
+----------------------------------------
+ADV_Prep	1 25.0	0 0.0
+PROPN_с	1 100.0
+----------------------------------------

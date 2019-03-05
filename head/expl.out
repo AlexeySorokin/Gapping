@@ -1,0 +1,184 @@
+VERB	36 87.8
+PRON 27 75.0	PART 8 22.2	NOUN 1 2.8
+----------------------------------------
+NOUN	4 9.8
+PRON 4 100.0
+----------------------------------------
+ADJ	1 2.4
+PRON 1 100.0
+----------------------------------------
+
+VERB_Aspect	36 100.0	0 0.0
+PRON_Imp	19 52.8
+Other: 
+PRON_Perf	8 22.2
+Other: 
+PART_Perf	5 13.9
+Other: 
+PART_Imp	3 8.3
+Other: 
+NOUN_Imp	1 2.8
+Other: 
+----------------------------------------
+VERB_VerbForm	36 100.0	0 0.0
+PRON_Fin	26 72.2
+Other: 
+PART_Fin	7 19.4
+Other: 
+PART_Inf	1 2.8
+Other: 
+NOUN_Fin	1 2.8
+Other: 
+PRON_Part	1 2.8
+Other: 
+----------------------------------------
+VERB_Voice	36 100.0	0 0.0
+PRON_Act	20 55.6
+Other: 
+PRON_Mid	6 16.7
+Other: 
+PART_Act	5 13.9
+Other: 
+PART_Mid	3 8.3
+Other: 
+NOUN_Mid	1 2.8
+Other: 
+PRON_Pass	1 2.8
+Other: 
+----------------------------------------
+VERB_Number	35 97.2	16 57.1
+PRON_Sing	15 42.9
+Other: 
+PRON_Plur	12 34.3
+Other: 
+PART_Sing	6 17.1
+Other: 
+PART_Plur	1 2.9
+Other: 
+NOUN_Sing	1 2.9
+Other: 
+VERB_Plur	0 0.0
+Other: 
+VERB_Sing	0 0.0
+Other: 
+----------------------------------------
+VERB_Tense	35 97.2	0 0.0
+PRON_Pres	16 45.7
+Other: 
+PRON_Past	10 28.6
+Other: 
+PART_Past	4 11.4
+Other: 
+PART_Pres	3 8.6
+Other: 
+PRON_Fut	1 2.9
+Other: 
+NOUN_Pres	1 2.9
+Other: 
+----------------------------------------
+VERB_Mood	34 94.4	0 0.0
+PRON_Ind	26 76.5
+Other: 
+PART_Ind	7 20.6
+Other: 
+NOUN_Ind	1 2.9
+Other: 
+----------------------------------------
+VERB_Person	21 58.3	0 0.0
+PRON_3	15 71.4
+Other: 
+PART_3	2 9.5
+Other: 
+PART_1	1 4.8
+Other: 
+NOUN_3	1 4.8
+Other: 
+PRON_2	1 4.8
+Other: 
+PRON_1	1 4.8
+Other: 
+----------------------------------------
+VERB_Gender	9 25.0	2 40.0
+PART_Masc	4 44.4
+Other: 
+PRON_Masc	2 22.2
+Other: 
+PRON_Neut	2 22.2
+Other: 
+PRON_Fem	1 11.1
+Other: 
+VERB_Masc	0 0.0
+Other: 
+VERB_Neut	0 0.0
+Other: 
+VERB_Fem	0 0.0
+Other: 
+----------------------------------------
+NOUN_Animacy	4 100.0	3 75.0
+PRON_Inan	3 75.0
+Other: 
+PRON_Anim	1 25.0
+Other: 
+NOUN_Inan	0 0.0
+Other: 
+NOUN_Anim	0 0.0
+Other: 
+----------------------------------------
+NOUN_Case	4 100.0	0 0.0
+PRON_Gen	3 75.0
+Other: 
+PRON_Dat	1 25.0
+Other: 
+NOUN_Gen	0 0.0
+Other: 
+NOUN_Dat	0 0.0
+Other: 
+----------------------------------------
+NOUN_Gender	4 100.0	2 50.0
+PRON_Neut	2 50.0
+Other: 
+PRON_Fem	1 25.0
+Other: 
+PRON_Masc	1 25.0
+Other: 
+NOUN_Fem	0 0.0
+Other: 
+NOUN_Neut	0 0.0
+Other: 
+NOUN_Masc	0 0.0
+Other: 
+----------------------------------------
+NOUN_Number	4 100.0	3 75.0
+PRON_Sing	3 75.0
+Other: 
+PRON_Plur	1 25.0
+Other: 
+NOUN_Sing	0 0.0
+Other: 
+NOUN_Plur	0 0.0
+Other: 
+----------------------------------------
+ADJ_Gender	1 100.0	0 0.0
+PRON_Masc	1 100.0
+Other: 
+ADJ_Masc	0 0.0
+Other: 
+----------------------------------------
+ADJ_Number	1 100.0	1 100.0
+PRON_Sing	1 100.0
+Other: 
+ADJ_Sing	0 0.0
+Other: 
+----------------------------------------
+ADJ_Degree	1 100.0	0 0.0
+PRON_Pos	1 100.0
+Other: 
+----------------------------------------
+ADJ_Variant	1 100.0	0 0.0
+PRON_Short	1 100.0
+Other: 
+----------------------------------------
+VERB_Variant	1 2.8	0 0.0
+PRON_Short	1 100.0
+Other: 
+----------------------------------------

@@ -1,0 +1,909 @@
+NOUN	68138 95.3
+ADJ 64211 94.2	VERB 2688 3.9	PROPN 487 0.7	NUM 403 0.6	DET 322 0.5	PRON 21 0.0	PART 3 0.0	X 1 0.0	ADP 1 0.0	NOUN 1 0.0
+----------------------------------------
+PROPN	1587 2.2
+ADJ 1283 80.8	PROPN 235 14.8	VERB 54 3.4	DET 13 0.8	NUM 2 0.1
+----------------------------------------
+ADJ	912 1.3
+ADJ 890 97.6	NUM 15 1.6	VERB 5 0.5	ADV 1 0.1	DET 1 0.1
+----------------------------------------
+PRON	528 0.7
+ADJ 499 94.5	DET 14 2.7	VERB 12 2.3	PRON 1 0.2	NOUN 1 0.2	NUM 1 0.2
+----------------------------------------
+NUM	158 0.2
+ADJ 155 98.1	VERB 2 1.3	NOUN 1 0.6
+----------------------------------------
+DET	110 0.2
+ADJ 109 99.1	VERB 1 0.9
+----------------------------------------
+VERB	31 0.0
+ADJ 29 93.5	NUM 1 3.2	DET 1 3.2
+----------------------------------------
+SYM	10 0.0
+ADJ 8 80.0	VERB 2 20.0
+----------------------------------------
+X	7 0.0
+ADJ 6 85.7	VERB 1 14.3
+----------------------------------------
+ADV	5 0.0
+ADJ 5 100.0
+----------------------------------------
+PART	3 0.0
+ADJ 3 100.0
+----------------------------------------
+CCONJ	1 0.0
+ADJ 1 100.0
+----------------------------------------
+INTJ	1 0.0
+ADJ 1 100.0
+----------------------------------------
+
+NOUN_Case	68137 100.0	67108 99.8
+ADJ_Gen	21625 31.7
+Other: 
+ADJ_Nom	16000 23.5
+Other: 
+ADJ_Acc	11597 17.0
+Other: 
+ADJ_Loc	6469 9.5
+Other: 
+ADJ_Ins	5731 8.4
+Other: 
+ADJ_Dat	2787 4.1
+Other: 
+VERB_Gen	913 1.3
+Other: 
+VERB_Nom	593 0.9
+Other: 
+VERB_Acc	503 0.7
+Other: 
+VERB_Ins	288 0.4
+Other: 
+VERB_Loc	252 0.4
+Other: 
+PROPN_Gen	229 0.3
+Other: 
+NUM_Nom	171 0.3
+Other: 
+VERB_Dat	138 0.2
+Other: 
+NUM_Gen	112 0.2
+Other: 
+DET_Nom	97 0.1
+Other: 
+PROPN_Nom	91 0.1
+Other: 
+DET_Gen	88 0.1
+Other: 
+PROPN_Loc	87 0.1
+Other: 
+DET_Acc	66 0.1
+Other: 
+NUM_Loc	54 0.1
+Other: 
+PROPN_Acc	40 0.1
+Other: 
+DET_Loc	34 0.0
+Other: 
+NUM_Acc	33 0.0
+Other: 
+DET_Ins	28 0.0
+Other: 
+PROPN_Ins	22 0.0
+Other: 
+NUM_Dat	20 0.0
+Other: 
+PROPN_Dat	18 0.0
+Other: 
+NUM_Ins	13 0.0
+Other: 
+PRON_Nom	13 0.0
+Other: 
+DET_Dat	9 0.0
+Other: 
+PRON_Acc	7 0.0
+Other: 
+PART_Ins	2 0.0
+Other: 
+NOUN_Ins	1 0.0
+Other: 
+PART_Loc	1 0.0
+Other: 
+VERB_Par	1 0.0
+Other: 
+X_Nom	1 0.0
+Other: 
+ADP_Gen	1 0.0
+Other: 
+ADJ_Par	1 0.0
+Other: 
+PRON_Gen	1 0.0
+Other: 
+NOUN_Gen	0 0.0
+Other: 
+NOUN_Nom	0 0.0
+Other: 
+NOUN_Loc	0 0.0
+Other: 
+NOUN_Acc	0 0.0
+Other: 
+NOUN_Dat	0 0.0
+Other: 
+NOUN_Par	0 0.0
+Other: 
+----------------------------------------
+NOUN_Number	68137 100.0	66838 99.4
+ADJ_Sing	42153 61.9
+Other: 
+ADJ_Plur	22057 32.4
+Other: 
+VERB_Sing	1611 2.4
+Other: 
+VERB_Plur	1077 1.6
+Other: 
+PROPN_Sing	454 0.7
+Other: 
+NUM_Plur	403 0.6
+Other: 
+DET_Sing	246 0.4
+Other: 
+DET_Plur	76 0.1
+Other: 
+PROPN_Plur	33 0.0
+Other: 
+PRON_Sing	17 0.0
+Other: 
+PRON_Plur	4 0.0
+Other: 
+PART_Sing	2 0.0
+Other: 
+NOUN_Sing	1 0.0
+Other: 
+PART_Plur	1 0.0
+Other: 
+X_Sing	1 0.0
+Other: 
+ADP_Sing	1 0.0
+Other: 
+NOUN_Plur	0 0.0
+Other: 
+----------------------------------------
+NOUN_Animacy	68137 100.0	7137 100.0
+ADJ_Inan	58326 85.6
+Other: 
+ADJ_Anim	5884 8.6
+Other: 
+VERB_Inan	2428 3.6
+Other: 
+PROPN_Inan	474 0.7
+Other: 
+DET_Inan	278 0.4
+Other: 
+VERB_Anim	260 0.4
+Other: 
+NUM_Inan	242 0.4
+Other: 
+NUM_Anim	161 0.2
+Other: 
+DET_Anim	44 0.1
+Other: 
+PRON_Inan	19 0.0
+Other: 
+PROPN_Anim	13 0.0
+Other: 
+PART_Inan	2 0.0
+Other: 
+PRON_Anim	2 0.0
+Other: 
+NOUN_Inan	1 0.0
+Other: 
+PART_Anim	1 0.0
+Other: 
+X_Inan	1 0.0
+Other: 
+ADP_Inan	1 0.0
+Other: 
+NOUN_Anim	0 0.0
+Other: 
+----------------------------------------
+NOUN_Gender	68038 99.9	43860 99.9
+ADJ_Masc	26740 39.3
+Other: 
+ADJ_Fem	23741 34.9
+Other: 
+ADJ_Neut	13644 20.1
+Other: 
+VERB_Masc	1163 1.7
+Other: 
+VERB_Fem	1026 1.5
+Other: 
+VERB_Neut	485 0.7
+Other: 
+PROPN_Masc	263 0.4
+Other: 
+NUM_Masc	249 0.4
+Other: 
+PROPN_Fem	146 0.2
+Other: 
+DET_Masc	139 0.2
+Other: 
+DET_Fem	127 0.2
+Other: 
+NUM_Fem	98 0.1
+Other: 
+PROPN_Neut	78 0.1
+Other: 
+DET_Neut	56 0.1
+Other: 
+NUM_Neut	56 0.1
+Other: 
+PRON_Masc	12 0.0
+Other: 
+PRON_Fem	9 0.0
+Other: 
+NOUN_Neut	1 0.0
+Other: 
+PART_Masc	1 0.0
+Other: 
+PART_Neut	1 0.0
+Other: 
+PART_Fem	1 0.0
+Other: 
+X_Fem	1 0.0
+Other: 
+ADP_Fem	1 0.0
+Other: 
+NOUN_Masc	0 0.0
+Other: 
+NOUN_Fem	0 0.0
+Other: 
+----------------------------------------
+PROPN_Case	1533 96.6	1299 99.9
+ADJ_Gen	458 29.9
+Other: 
+ADJ_Nom	336 21.9
+Other: 
+ADJ_Loc	213 13.9
+Other: 
+ADJ_Acc	121 7.9
+Other: 
+PROPN_Gen	88 5.7
+Other: 
+PROPN_Loc	77 5.0
+Other: 
+ADJ_Ins	67 4.4
+Other: 
+ADJ_Dat	38 2.5
+Other: 
+PROPN_Acc	32 2.1
+Other: 
+PROPN_Nom	27 1.8
+Other: 
+VERB_Gen	23 1.5
+Other: 
+VERB_Nom	8 0.5
+Other: 
+VERB_Acc	7 0.5
+Other: 
+VERB_Loc	7 0.5
+Other: 
+DET_Nom	6 0.4
+Other: 
+PROPN_Ins	5 0.3
+Other: 
+VERB_Ins	5 0.3
+Other: 
+PROPN_Dat	4 0.3
+Other: 
+VERB_Dat	3 0.2
+Other: 
+DET_Loc	2 0.1
+Other: 
+DET_Gen	2 0.1
+Other: 
+DET_Acc	2 0.1
+Other: 
+NUM_Acc	1 0.1
+Other: 
+DET_Dat	1 0.1
+Other: 
+----------------------------------------
+PROPN_Number	1533 96.6	1287 99.0
+ADJ_Sing	1165 76.0
+Other: 
+PROPN_Sing	221 14.4
+Other: 
+ADJ_Plur	68 4.4
+Other: 
+VERB_Sing	33 2.2
+Other: 
+VERB_Plur	20 1.3
+Other: 
+DET_Sing	13 0.8
+Other: 
+PROPN_Plur	12 0.8
+Other: 
+NUM_Plur	1 0.1
+Other: 
+----------------------------------------
+PROPN_Animacy	1533 96.6	77 100.0
+ADJ_Inan	1008 65.8
+Other: 
+PROPN_Inan	226 14.7
+Other: 
+ADJ_Anim	225 14.7
+Other: 
+VERB_Inan	46 3.0
+Other: 
+DET_Inan	8 0.5
+Other: 
+PROPN_Anim	7 0.5
+Other: 
+VERB_Anim	7 0.5
+Other: 
+DET_Anim	5 0.3
+Other: 
+NUM_Inan	1 0.1
+Other: 
+----------------------------------------
+PROPN_Gender	1530 96.4	1196 99.7
+ADJ_Masc	643 42.0
+Other: 
+ADJ_Fem	536 35.0
+Other: 
+PROPN_Fem	161 10.5
+Other: 
+PROPN_Masc	71 4.6
+Other: 
+ADJ_Neut	51 3.3
+Other: 
+VERB_Fem	27 1.8
+Other: 
+VERB_Masc	23 1.5
+Other: 
+DET_Masc	8 0.5
+Other: 
+DET_Fem	4 0.3
+Other: 
+VERB_Neut	3 0.2
+Other: 
+PROPN_Neut	1 0.1
+Other: 
+NUM_Fem	1 0.1
+Other: 
+DET_Neut	1 0.1
+Other: 
+----------------------------------------
+ADJ_Case	912 100.0	893 99.8
+ADJ_Nom	353 38.7
+Other: 
+ADJ_Gen	195 21.4
+Other: 
+ADJ_Acc	135 14.8
+Other: 
+ADJ_Ins	120 13.2
+Other: 
+ADJ_Loc	68 7.5
+Other: 
+ADJ_Dat	19 2.1
+Other: 
+NUM_Nom	9 1.0
+Other: 
+NUM_Gen	4 0.4
+Other: 
+VERB_Gen	2 0.2
+Other: 
+VERB_Ins	2 0.2
+Other: 
+NUM_Acc	1 0.1
+Other: 
+ADV_Nom	1 0.1
+Other: 
+DET_Ins	1 0.1
+Other: 
+VERB_Dat	1 0.1
+Other: 
+NUM_Dat	1 0.1
+Other: 
+----------------------------------------
+ADJ_Degree	912 100.0	889 99.8
+ADJ_Pos	888 97.4
+Other: 
+NUM_Pos	15 1.6
+Other: 
+VERB_Pos	5 0.5
+Other: 
+ADJ_Sup	2 0.2
+Other: 
+ADV_Pos	1 0.1
+Other: 
+DET_Pos	1 0.1
+Other: 
+----------------------------------------
+ADJ_Number	912 100.0	894 99.9
+ADJ_Sing	524 57.5
+Other: 
+ADJ_Plur	366 40.1
+Other: 
+NUM_Plur	15 1.6
+Other: 
+VERB_Plur	3 0.3
+Other: 
+VERB_Sing	2 0.2
+Other: 
+ADV_Plur	1 0.1
+Other: 
+DET_Sing	1 0.1
+Other: 
+----------------------------------------
+PRON_Case	528 100.0	520 100.0
+ADJ_Nom	158 29.9
+Other: 
+ADJ_Gen	118 22.3
+Other: 
+ADJ_Acc	115 21.8
+Other: 
+ADJ_Ins	67 12.7
+Other: 
+ADJ_Dat	28 5.3
+Other: 
+ADJ_Loc	13 2.5
+Other: 
+DET_Nom	7 1.3
+Other: 
+VERB_Nom	7 1.3
+Other: 
+DET_Gen	4 0.8
+Other: 
+VERB_Acc	3 0.6
+Other: 
+PRON_Nom	1 0.2
+Other: 
+VERB_Gen	1 0.2
+Other: 
+DET_Ins	1 0.2
+Other: 
+DET_Acc	1 0.2
+Other: 
+NOUN_Nom	1 0.2
+Other: 
+VERB_Dat	1 0.2
+Other: 
+NUM_Nom	1 0.2
+Other: 
+DET_Loc	1 0.2
+Other: 
+PRON_Gen	0 0.0
+Other: 
+PRON_Acc	0 0.0
+Other: 
+PRON_Loc	0 0.0
+Other: 
+PRON_Dat	0 0.0
+Other: 
+PRON_Ins	0 0.0
+Other: 
+----------------------------------------
+ADJ_Gender	527 57.8	525 99.8
+ADJ_Masc	253 48.0
+Other: 
+ADJ_Fem	140 26.6
+Other: 
+ADJ_Neut	131 24.9
+Other: 
+VERB_Fem	2 0.4
+Other: 
+DET_Fem	1 0.2
+Other: 
+----------------------------------------
+PRON_Number	281 53.2	278 99.3
+ADJ_Sing	211 75.1
+Other: 
+ADJ_Plur	46 16.4
+Other: 
+DET_Sing	11 3.9
+Other: 
+VERB_Sing	6 2.1
+Other: 
+DET_Plur	3 1.1
+Other: 
+VERB_Plur	2 0.7
+Other: 
+NOUN_Sing	1 0.4
+Other: 
+NUM_Sing	1 0.4
+Other: 
+PRON_Sing	0 0.0
+Other: 
+PRON_Plur	0 0.0
+Other: 
+----------------------------------------
+PRON_Gender	202 38.3	199 99.5
+ADJ_Neut	137 67.8
+Other: 
+ADJ_Masc	37 18.3
+Other: 
+ADJ_Fem	11 5.4
+Other: 
+DET_Masc	7 3.5
+Other: 
+VERB_Neut	6 3.0
+Other: 
+DET_Neut	2 1.0
+Other: 
+NOUN_Masc	1 0.5
+Other: 
+NUM_Masc	1 0.5
+Other: 
+PRON_Masc	0 0.0
+Other: 
+PRON_Neut	0 0.0
+Other: 
+PRON_Fem	0 0.0
+Other: 
+----------------------------------------
+NOUN_Prep	192 0.3	2 66.7
+ADJ_в	46 24.0
+ADJ_на	32 16.7
+ADJ_с	22 11.5
+ADJ_от	21 10.9
+ADJ_из	14 7.3
+ADJ_по	10 5.2
+ADJ_о	8 4.2
+ADJ_за	5 2.6
+ADJ_к	5 2.6
+ADJ_со	4 2.1
+ADJ_об	4 2.1
+ADJ_через	3 1.6
+ADJ_для	3 1.6
+ADJ_из-за	2 1.0
+ADJ_после	2 1.0
+ADJ_вроде	2 1.0
+ADJ_у	1 0.5
+ADJ_насчет	1 0.5
+ADJ_до	1 0.5
+ADJ_во	1 0.5
+ADJ_согласно	1 0.5
+ADJ_при	1 0.5
+ADJ_без	1 0.5
+ADP_дель	1 0.5
+ADJ_над	1 0.5
+NOUN_с	0 0.0
+NOUN_от	0 0.0
+NOUN_на	0 0.0
+----------------------------------------
+PRON_Animacy	160 30.3	2 100.0
+ADJ_Inan	137 85.6
+Other: 
+ADJ_Anim	13 8.1
+Other: 
+VERB_Inan	6 3.8
+Other: 
+DET_Inan	2 1.2
+Other: 
+VERB_Anim	2 1.2
+Other: 
+PRON_Anim	0 0.0
+Other: 
+----------------------------------------
+PRON_Person	121 22.9	0 0.0
+ADJ_3	67 55.4
+Other: 
+ADJ_1	33 27.3
+Other: 
+ADJ_2	7 5.8
+Other: 
+DET_3	7 5.8
+Other: 
+DET_1	5 4.1
+Other: 
+NOUN_3	1 0.8
+Other: 
+NUM_3	1 0.8
+Other: 
+----------------------------------------
+NUM_Case	116 73.4	115 99.1
+ADJ_Acc	84 72.4
+Other: 
+ADJ_Nom	16 13.8
+Other: 
+ADJ_Gen	9 7.8
+Other: 
+ADJ_Loc	3 2.6
+Other: 
+ADJ_Ins	2 1.7
+Other: 
+ADJ_Dat	2 1.7
+Other: 
+NUM_Acc	0 0.0
+Other: 
+NUM_Gen	0 0.0
+Other: 
+NUM_Ins	0 0.0
+Other: 
+NUM_Dat	0 0.0
+Other: 
+NUM_Nom	0 0.0
+Other: 
+NUM_Loc	0 0.0
+Other: 
+----------------------------------------
+DET_Case	109 99.1	109 100.0
+ADJ_Nom	45 41.3
+Other: 
+ADJ_Acc	21 19.3
+Other: 
+ADJ_Loc	14 12.8
+Other: 
+ADJ_Gen	12 11.0
+Other: 
+ADJ_Ins	10 9.2
+Other: 
+ADJ_Dat	6 5.5
+Other: 
+VERB_Nom	1 0.9
+Other: 
+DET_Dat	0 0.0
+Other: 
+DET_Acc	0 0.0
+Other: 
+DET_Nom	0 0.0
+Other: 
+DET_Loc	0 0.0
+Other: 
+DET_Ins	0 0.0
+Other: 
+DET_Gen	0 0.0
+Other: 
+----------------------------------------
+DET_Number	109 99.1	109 100.0
+ADJ_Sing	89 81.7
+Other: 
+ADJ_Plur	19 17.4
+Other: 
+VERB_Sing	1 0.9
+Other: 
+DET_Sing	0 0.0
+Other: 
+DET_Plur	0 0.0
+Other: 
+----------------------------------------
+DET_Gender	90 81.8	90 100.0
+ADJ_Fem	41 45.6
+Other: 
+ADJ_Masc	32 35.6
+Other: 
+ADJ_Neut	16 17.8
+Other: 
+VERB_Masc	1 1.1
+Other: 
+DET_Fem	0 0.0
+Other: 
+DET_Masc	0 0.0
+Other: 
+DET_Neut	0 0.0
+Other: 
+----------------------------------------
+ADJ_Animacy	90 9.9	88 100.0
+ADJ_Inan	79 87.8
+Other: 
+ADJ_Anim	10 11.1
+Other: 
+NUM_Inan	1 1.1
+Other: 
+----------------------------------------
+PRON_Prep	59 11.2	0 0.0
+ADJ_на	10 16.9
+ADJ_о	7 11.9
+ADJ_для	6 10.2
+ADJ_у	5 8.5
+ADJ_от	4 6.8
+ADJ_ко	3 5.1
+ADJ_к	3 5.1
+ADJ_за	3 5.1
+ADJ_с	2 3.4
+ADJ_в	2 3.4
+ADJ_кроме	2 3.4
+ADJ_по	2 3.4
+ADJ_во	1 1.7
+VERB_после	1 1.7
+ADJ_про	1 1.7
+ADJ_до	1 1.7
+ADJ_против	1 1.7
+ADJ_путем	1 1.7
+ADJ_из	1 1.7
+DET_для	1 1.7
+DET_в	1 1.7
+DET_у	1 1.7
+----------------------------------------
+NUM_Animacy	57 36.1	57 100.0
+ADJ_Inan	57 100.0
+Other: 
+NUM_Inan	0 0.0
+Other: 
+----------------------------------------
+NUM_Gender	33 20.9	0 0.0
+ADJ_Masc	23 69.7
+Other: 
+ADJ_Fem	5 15.2
+Other: 
+ADJ_Neut	5 15.2
+Other: 
+----------------------------------------
+VERB_Aspect	31 100.0	0 0.0
+ADJ_Imp	21 67.7
+Other: 
+ADJ_Perf	8 25.8
+Other: 
+NUM_Imp	1 3.2
+Other: 
+DET_Imp	1 3.2
+Other: 
+----------------------------------------
+VERB_VerbForm	31 100.0	0 0.0
+ADJ_Part	16 51.6
+Other: 
+ADJ_Fin	7 22.6
+Other: 
+ADJ_Inf	4 12.9
+Other: 
+ADJ_Conv	2 6.5
+Other: 
+NUM_Fin	1 3.2
+Other: 
+DET_Part	1 3.2
+Other: 
+----------------------------------------
+VERB_Voice	31 100.0	0 0.0
+ADJ_Act	20 64.5
+Other: 
+ADJ_Pass	7 22.6
+Other: 
+ADJ_Mid	2 6.5
+Other: 
+NUM_Mid	1 3.2
+Other: 
+DET_Act	1 3.2
+Other: 
+----------------------------------------
+VERB_Tense	27 87.1	0 0.0
+ADJ_Pres	16 59.3
+Other: 
+ADJ_Past	8 29.6
+Other: 
+ADJ_Fut	1 3.7
+Other: 
+NUM_Past	1 3.7
+Other: 
+DET_Pres	1 3.7
+Other: 
+----------------------------------------
+VERB_Number	25 80.6	24 100.0
+ADJ_Sing	15 60.0
+Other: 
+ADJ_Plur	8 32.0
+Other: 
+NUM_Sing	1 4.0
+Other: 
+DET_Plur	1 4.0
+Other: 
+VERB_Sing	0 0.0
+Other: 
+VERB_Plur	0 0.0
+Other: 
+----------------------------------------
+PROPN_Foreign	19 1.2	0 0.0
+ADJ_Yes	17 89.5
+Other: 
+NUM_Yes	1 5.3
+Other: 
+VERB_Yes	1 5.3
+Other: 
+----------------------------------------
+VERB_Case	17 54.8	17 100.0
+ADJ_Gen	6 35.3
+Other: 
+ADJ_Nom	5 29.4
+Other: 
+ADJ_Ins	2 11.8
+Other: 
+ADJ_Dat	2 11.8
+Other: 
+ADJ_Acc	1 5.9
+Other: 
+DET_Nom	1 5.9
+Other: 
+VERB_Nom	0 0.0
+Other: 
+VERB_Gen	0 0.0
+Other: 
+VERB_Acc	0 0.0
+Other: 
+VERB_Ins	0 0.0
+Other: 
+VERB_Dat	0 0.0
+Other: 
+----------------------------------------
+VERB_Gender	11 35.5	9 90.0
+ADJ_Masc	8 72.7
+Other: 
+ADJ_Neut	1 9.1
+Other: 
+ADJ_Fem	1 9.1
+Other: 
+NUM_Neut	1 9.1
+Other: 
+VERB_Neut	0 0.0
+Other: 
+VERB_Masc	0 0.0
+Other: 
+VERB_Fem	0 0.0
+Other: 
+----------------------------------------
+VERB_Mood	8 25.8	0 0.0
+ADJ_Ind	7 87.5
+Other: 
+NUM_Ind	1 12.5
+Other: 
+----------------------------------------
+X_Foreign	7 100.0	0 0.0
+ADJ_Yes	6 85.7
+Other: 
+VERB_Yes	1 14.3
+Other: 
+----------------------------------------
+NUM_Prep	7 4.4	0 0.0
+ADJ_по	3 42.9
+ADJ_в	1 14.3
+ADJ_во	1 14.3
+ADJ_до	1 14.3
+VERB_на	1 14.3
+----------------------------------------
+ADV_Degree	5 100.0	3 60.0
+ADJ_Pos	3 60.0
+Other: 
+ADJ_Cmp	2 40.0
+Other: 
+ADV_Pos	0 0.0
+Other: 
+ADV_Cmp	0 0.0
+Other: 
+----------------------------------------
+PROPN_Prep	5 0.3	0 0.0
+ADJ_в	3 60.0
+ADJ_на	1 20.0
+PROPN_до	1 20.0
+----------------------------------------
+VERB_Person	5 16.1	0 0.0
+ADJ_3	3 60.0
+Other: 
+ADJ_1	2 40.0
+Other: 
+----------------------------------------
+ADJ_Prep	3 0.3	0 0.0
+ADJ_а-ля	1 33.3
+VERB_от	1 33.3
+ADJ_на	1 33.3
+----------------------------------------
+VERB_Prep	2 6.5	0 0.0
+ADJ_от	2 100.0
+----------------------------------------
+SYM_Prep	2 20.0	0 0.0
+ADJ_до	1 50.0
+VERB_около	1 50.0
+----------------------------------------
+ADV_Prep	1 20.0	0 0.0
+ADJ_во	1 100.0
+----------------------------------------
+X_Prep	1 14.3	0 0.0
+ADJ_от	1 100.0
+----------------------------------------
+VERB_Animacy	1 3.2	1 100.0
+ADJ_Anim	1 100.0
+Other: 
+VERB_Anim	0 0.0
+Other: 
+----------------------------------------
+DET_Prep	1 0.9	0 0.0
+ADJ_к	1 100.0
+----------------------------------------

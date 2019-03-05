@@ -1,0 +1,501 @@
+NOUN	63302 78.8
+ADP 63100 99.7	ADV 201 0.3	SYM 1 0.0
+----------------------------------------
+PRON	8441 10.5
+ADP 8396 99.5	ADV 45 0.5
+----------------------------------------
+PROPN	5951 7.4
+ADP 5948 99.9	SYM 2 0.0	ADV 1 0.0
+----------------------------------------
+ADJ	1283 1.6
+ADP 1270 99.0	ADV 13 1.0
+----------------------------------------
+NUM	705 0.9
+ADP 690 97.9	ADV 14 2.0	SYM 1 0.1
+----------------------------------------
+SYM	299 0.4
+ADP 292 97.7	ADV 7 2.3
+----------------------------------------
+DET	248 0.3
+ADP 248 100.0
+----------------------------------------
+VERB	44 0.1
+ADP 43 97.7	ADV 1 2.3
+----------------------------------------
+ADV	30 0.0
+ADP 24 80.0	ADV 6 20.0
+----------------------------------------
+X	10 0.0
+ADP 10 100.0
+----------------------------------------
+PART	7 0.0
+ADP 7 100.0
+----------------------------------------
+ADP	2 0.0
+ADP 2 100.0
+----------------------------------------
+
+NOUN_Animacy	63296 100.0	0 0.0
+ADP_Inan	59375 93.8
+Other: 
+ADP_Anim	3719 5.9
+Other: 
+ADV_Inan	199 0.3
+Other: 
+ADV_Anim	2 0.0
+Other: 
+SYM_Inan	1 0.0
+Other: 
+----------------------------------------
+NOUN_Case	63296 100.0	0 0.0
+ADP_Loc	21369 33.8
+Other: 
+ADP_Gen	15107 23.9
+Other: 
+ADP_Acc	12561 19.8
+Other: 
+ADP_Dat	7444 11.8
+Other: 
+ADP_Ins	6435 10.2
+Other: 
+ADP_Nom	141 0.2
+Other: 
+ADV_Acc	118 0.2
+Other: 
+ADV_Gen	63 0.1
+Other: 
+ADP_Par	37 0.1
+Other: 
+ADV_Ins	8 0.0
+Other: 
+ADV_Nom	7 0.0
+Other: 
+ADV_Loc	4 0.0
+Other: 
+ADV_Dat	1 0.0
+Other: 
+SYM_Nom	1 0.0
+Other: 
+----------------------------------------
+NOUN_Number	63296 100.0	0 0.0
+ADP_Sing	46304 73.2
+Other: 
+ADP_Plur	16790 26.5
+Other: 
+ADV_Sing	128 0.2
+Other: 
+ADV_Plur	73 0.1
+Other: 
+SYM_Sing	1 0.0
+Other: 
+----------------------------------------
+NOUN_Gender	63142 99.7	0 0.0
+ADP_Masc	26765 42.4
+Other: 
+ADP_Fem	21605 34.2
+Other: 
+ADP_Neut	14570 23.1
+Other: 
+ADV_Masc	78 0.1
+Other: 
+ADV_Fem	68 0.1
+Other: 
+ADV_Neut	55 0.1
+Other: 
+SYM_Masc	1 0.0
+Other: 
+----------------------------------------
+PRON_Case	8439 100.0	0 0.0
+ADP_Gen	3185 37.7
+Other: 
+ADP_Loc	2509 29.7
+Other: 
+ADP_Ins	1050 12.4
+Other: 
+ADP_Acc	874 10.4
+Other: 
+ADP_Dat	772 9.1
+Other: 
+ADV_Acc	42 0.5
+Other: 
+ADP_Nom	4 0.0
+Other: 
+ADV_Gen	3 0.0
+Other: 
+----------------------------------------
+PRON_Number	6341 75.1	0 0.0
+ADP_Sing	4588 72.4
+Other: 
+ADP_Plur	1708 26.9
+Other: 
+ADV_Sing	45 0.7
+Other: 
+----------------------------------------
+PROPN_Animacy	5818 97.8	0 0.0
+ADP_Inan	5160 88.7
+Other: 
+ADP_Anim	655 11.3
+Other: 
+SYM_Inan	2 0.0
+Other: 
+ADV_Inan	1 0.0
+Other: 
+----------------------------------------
+PROPN_Case	5818 97.8	0 0.0
+ADP_Loc	3044 52.3
+Other: 
+ADP_Gen	1001 17.2
+Other: 
+ADP_Acc	939 16.1
+Other: 
+ADP_Ins	560 9.6
+Other: 
+ADP_Dat	264 4.5
+Other: 
+ADP_Nom	7 0.1
+Other: 
+SYM_Gen	2 0.0
+Other: 
+ADV_Gen	1 0.0
+Other: 
+----------------------------------------
+PROPN_Number	5818 97.8	0 0.0
+ADP_Sing	5556 95.5
+Other: 
+ADP_Plur	259 4.5
+Other: 
+SYM_Sing	2 0.0
+Other: 
+ADV_Plur	1 0.0
+Other: 
+----------------------------------------
+PROPN_Gender	5674 95.3	0 0.0
+ADP_Fem	2817 49.6
+Other: 
+ADP_Masc	2661 46.9
+Other: 
+ADP_Neut	193 3.4
+Other: 
+SYM_Masc	2 0.0
+Other: 
+ADV_Fem	1 0.0
+Other: 
+----------------------------------------
+PRON_Gender	4306 51.0	0 0.0
+ADP_Neut	3027 70.3
+Other: 
+ADP_Masc	773 18.0
+Other: 
+ADP_Fem	461 10.7
+Other: 
+ADV_Neut	45 1.0
+Other: 
+----------------------------------------
+PRON_Person	3281 38.9	0 0.0
+ADP_3	2169 66.1
+Other: 
+ADP_1	880 26.8
+Other: 
+ADP_2	232 7.1
+Other: 
+----------------------------------------
+PRON_Animacy	3060 36.3	0 0.0
+ADP_Inan	2966 96.9
+Other: 
+ADP_Anim	49 1.6
+Other: 
+ADV_Inan	45 1.5
+Other: 
+----------------------------------------
+ADJ_Degree	1282 99.9	1 7.7
+ADP_Pos	1261 98.4
+Other: 
+ADV_Pos	13 1.0
+Other: 
+ADP_Sup	7 0.5
+Other: 
+ADP_Cmp	1 0.1
+Other: 
+ADJ_Pos	0 0.0
+Other: 
+----------------------------------------
+ADJ_Number	1281 99.8	0 0.0
+ADP_Sing	889 69.4
+Other: 
+ADP_Plur	379 29.6
+Other: 
+ADV_Sing	9 0.7
+Other: 
+ADV_Plur	4 0.3
+Other: 
+----------------------------------------
+ADJ_Case	1275 99.4	0 0.0
+ADP_Loc	471 36.9
+Other: 
+ADP_Gen	359 28.2
+Other: 
+ADP_Acc	193 15.1
+Other: 
+ADP_Ins	137 10.7
+Other: 
+ADP_Dat	101 7.9
+Other: 
+ADV_Nom	5 0.4
+Other: 
+ADP_Nom	4 0.3
+Other: 
+ADV_Ins	2 0.2
+Other: 
+ADV_Gen	2 0.2
+Other: 
+ADV_Acc	1 0.1
+Other: 
+----------------------------------------
+ADJ_Gender	898 70.0	0 0.0
+ADP_Masc	406 45.2
+Other: 
+ADP_Neut	260 29.0
+Other: 
+ADP_Fem	223 24.8
+Other: 
+ADV_Fem	7 0.8
+Other: 
+ADV_Masc	2 0.2
+Other: 
+----------------------------------------
+DET_Case	248 100.0	0 0.0
+ADP_Gen	113 45.6
+Other: 
+ADP_Loc	53 21.4
+Other: 
+ADP_Dat	28 11.3
+Other: 
+ADP_Acc	28 11.3
+Other: 
+ADP_Ins	26 10.5
+Other: 
+----------------------------------------
+DET_Number	248 100.0	0 0.0
+ADP_Plur	126 50.8
+Other: 
+ADP_Sing	122 49.2
+Other: 
+----------------------------------------
+NUM_Case	230 32.6	0 0.0
+ADP_Loc	93 40.4
+Other: 
+ADP_Gen	59 25.7
+Other: 
+ADP_Acc	46 20.0
+Other: 
+ADP_Dat	22 9.6
+Other: 
+ADP_Ins	8 3.5
+Other: 
+ADV_Gen	2 0.9
+Other: 
+----------------------------------------
+NOUN_Prep	162 0.3	0 0.0
+ADP_на	25 15.4
+ADP_в	23 14.2
+ADP_спустя	22 13.6
+ADP_во	20 12.3
+ADP_через	15 9.3
+ADP_с	11 6.8
+ADP_ради	8 4.9
+ADP_из	7 4.3
+ADP_от	6 3.7
+ADP_для	5 3.1
+ADP_по	4 2.5
+ADP_над	3 1.9
+ADP_до	3 1.9
+ADP_около	2 1.2
+ADP_за	2 1.2
+ADP_вперед	1 0.6
+ADP_поперек	1 0.6
+ADP_со	1 0.6
+ADP_вокруг	1 0.6
+ADP_без	1 0.6
+ADP_к	1 0.6
+NOUN_во	0 0.0
+----------------------------------------
+NUM_Gender	156 22.1	0 0.0
+ADP_Masc	81 51.9
+Other: 
+ADP_Fem	58 37.2
+Other: 
+ADP_Neut	16 10.3
+Other: 
+ADV_Masc	1 0.6
+Other: 
+----------------------------------------
+DET_Gender	122 49.2	0 0.0
+ADP_Masc	69 56.6
+Other: 
+ADP_Fem	40 32.8
+Other: 
+ADP_Neut	13 10.7
+Other: 
+----------------------------------------
+ADJ_Animacy	106 8.3	0 0.0
+ADP_Inan	91 85.8
+Other: 
+ADP_Anim	15 14.2
+Other: 
+----------------------------------------
+VERB_Aspect	44 100.0	0 0.0
+ADP_Imp	23 52.3
+Other: 
+ADP_Perf	20 45.5
+Other: 
+ADV_Perf	1 2.3
+Other: 
+----------------------------------------
+VERB_VerbForm	44 100.0	0 0.0
+ADP_Fin	29 65.9
+Other: 
+ADP_Part	8 18.2
+Other: 
+ADP_Inf	6 13.6
+Other: 
+ADV_Inf	1 2.3
+Other: 
+----------------------------------------
+VERB_Voice	44 100.0	0 0.0
+ADP_Act	26 59.1
+Other: 
+ADP_Mid	10 22.7
+Other: 
+ADP_Pass	7 15.9
+Other: 
+ADV_Mid	1 2.3
+Other: 
+----------------------------------------
+PROPN_Foreign	38 0.6	0 0.0
+ADP_Yes	38 100.0
+Other: 
+----------------------------------------
+VERB_Number	37 84.1	0 0.0
+ADP_Sing	27 73.0
+Other: 
+ADP_Plur	10 27.0
+Other: 
+----------------------------------------
+VERB_Tense	37 84.1	0 0.0
+ADP_Past	21 56.8
+Other: 
+ADP_Pres	14 37.8
+Other: 
+ADP_Fut	2 5.4
+Other: 
+----------------------------------------
+VERB_Prep	35 79.5	0 0.0
+ADP_в	12 34.3
+ADP_на	11 31.4
+ADP_от	5 14.3
+ADP_во	3 8.6
+ADP_для	1 2.9
+ADP_по	1 2.9
+ADP_у	1 2.9
+ADP_с	1 2.9
+----------------------------------------
+ADV_Degree	30 100.0	0 0.0
+ADP_Pos	20 66.7
+Other: 
+ADV_Pos	6 20.0
+Other: 
+ADP_Cmp	4 13.3
+Other: 
+----------------------------------------
+VERB_Mood	29 65.9	0 0.0
+ADP_Ind	29 100.0
+Other: 
+----------------------------------------
+NUM_Animacy	27 3.8	0 0.0
+ADP_Inan	19 70.4
+Other: 
+ADP_Anim	8 29.6
+Other: 
+----------------------------------------
+VERB_Gender	17 38.6	0 0.0
+ADP_Masc	12 70.6
+Other: 
+ADP_Fem	3 17.6
+Other: 
+ADP_Neut	2 11.8
+Other: 
+----------------------------------------
+NUM_Prep	15 2.1	0 0.0
+ADP_по	5 33.3
+ADP_за	3 20.0
+ADP_на	2 13.3
+ADP_в	2 13.3
+ADP_во	1 6.7
+ADP_для	1 6.7
+ADP_без	1 6.7
+----------------------------------------
+VERB_Person	13 29.5	0 0.0
+ADP_3	13 100.0
+Other: 
+----------------------------------------
+DET_Degree	12 4.8	0 0.0
+ADP_Pos	12 100.0
+Other: 
+----------------------------------------
+X_Foreign	10 100.0	0 0.0
+ADP_Yes	10 100.0
+Other: 
+----------------------------------------
+VERB_Case	6 13.6	0 0.0
+ADP_Gen	4 66.7
+Other: 
+ADP_Dat	1 16.7
+Other: 
+ADP_Nom	1 16.7
+Other: 
+----------------------------------------
+ADJ_Variant	6 0.5	0 0.0
+ADP_Short	3 50.0
+Other: 
+ADV_Short	3 50.0
+Other: 
+----------------------------------------
+PROPN_Prep	6 0.1	0 0.0
+ADP_во	3 50.0
+ADP_в	1 16.7
+ADP_с	1 16.7
+ADP_около	1 16.7
+----------------------------------------
+ADV_Prep	3 10.0	0 0.0
+ADP_во	1 33.3
+ADP_с	1 33.3
+ADP_на	1 33.3
+----------------------------------------
+ADP_Prep	2 100.0	0 0.0
+ADP_с	1 50.0
+ADP_во	1 50.0
+----------------------------------------
+PART_Prep	2 28.6	0 0.0
+ADP_в	1 50.0
+ADP_перед	1 50.0
+----------------------------------------
+PRON_Prep	2 0.0	0 0.0
+ADP_в	2 100.0
+----------------------------------------
+VERB_Variant	2 4.5	0 0.0
+ADP_Short	2 100.0
+Other: 
+----------------------------------------
+ADJ_Prep	2 0.2	0 0.0
+ADP_у	1 50.0
+ADP_по	1 50.0
+----------------------------------------
+DET_Animacy	2 0.8	0 0.0
+ADP_Inan	1 50.0
+Other: 
+ADP_Anim	1 50.0
+Other: 
+----------------------------------------
+X_Prep	1 10.0	0 0.0
+ADP_от	1 100.0
+----------------------------------------

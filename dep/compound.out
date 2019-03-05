@@ -1,0 +1,112 @@
+ADJ	494 55.4
+ADJ 458 92.7	NOUN 24 4.9	PROPN 6 1.2	VERB 4 0.8	ADV 2 0.4
+----------------------------------------
+NOUN	345 38.7
+NOUN 326 94.5	ADJ 13 3.8	VERB 3 0.9	NUM 3 0.9
+----------------------------------------
+PROPN	46 5.2
+NOUN 28 60.9	PROPN 13 28.3	ADJ 5 10.9
+----------------------------------------
+ADV	6 0.7
+ADJ 4 66.7	VERB 2 33.3
+----------------------------------------
+X	1 0.1
+NOUN 1 100.0
+----------------------------------------
+
+ADJ_Degree	494 100.0	460 100.0
+Pos	494 100.0
+Other: ADJ_Pos 458 99.6	ADV_Pos 2 0.4
+----------------------------------------
+NOUN_Animacy	344 99.7	298 90.9
+Inan	339 98.5
+Other: NOUN_Inan 295 91.3	NOUN_Anim 25 7.7	ADJ_Inan 2 0.6	VERB_Inan 1 0.3
+Anim	5 1.5
+Other: NOUN_Inan 5 100.0
+----------------------------------------
+NOUN_Gender	343 99.4	89 26.8
+Neut	177 51.6
+Other: NOUN_Fem 159 89.8	NOUN_Masc 10 5.6	NOUN_Neut 8 4.5
+Masc	156 45.5
+Other: NOUN_Masc 74 50.0	NOUN_Fem 54 36.5	NOUN_Neut 13 8.8	ADJ_Masc 3 2.0	ADJ_Fem 3 2.0	VERB_Masc 1 0.7
+Fem	10 2.9
+Other: NOUN_Fem 3 42.9	NOUN_Masc 2 28.6	NOUN_Neut 1 14.3	ADJ_Masc 1 14.3
+----------------------------------------
+NOUN_Case	327 94.8	179 54.9
+Nom	169 51.7
+Other: NOUN_Gen 65 38.5	NOUN_Nom 56 33.1	NOUN_Acc 24 14.2	NOUN_Loc 8 4.7	NOUN_Dat 5 3.0	NOUN_Ins 5 3.0	VERB_Gen 2 1.2	NUM_Nom 2 1.2	VERB_Acc 1 0.6	ADJ_Nom 1 0.6
+Gen	158 48.3
+Other: NOUN_Gen 120 76.4	NOUN_Nom 15 9.6	NOUN_Acc 14 8.9	NOUN_Ins 8 5.1
+----------------------------------------
+NOUN_Number	327 94.8	229 70.7
+Sing	322 98.5
+Other: NOUN_Sing 225 70.3	NOUN_Plur 91 28.4	VERB_Plur 2 0.6	VERB_Sing 1 0.3	ADJ_Sing 1 0.3
+Plur	5 1.5
+Other: NOUN_Plur 2 50.0	NOUN_Sing 2 50.0
+----------------------------------------
+PROPN_Animacy	27 58.7	17 70.8
+Inan	16 59.3
+Other: NOUN_Inan 12 85.7	PROPN_Inan 2 14.3
+Anim	11 40.7
+Other: NOUN_Inan 6 60.0	NOUN_Anim 2 20.0	PROPN_Anim 1 10.0	PROPN_Inan 1 10.0
+----------------------------------------
+PROPN_Gender	27 58.7	15 60.0
+Masc	17 63.0
+Other: NOUN_Masc 8 50.0	PROPN_Masc 4 25.0	NOUN_Fem 3 18.8	ADJ_Fem 1 6.2
+Neut	6 22.2
+Other: NOUN_Masc 4 66.7	NOUN_Fem 1 16.7	NOUN_Neut 1 16.7
+Fem	4 14.8
+Other: NOUN_Fem 2 66.7	NOUN_Masc 1 33.3
+----------------------------------------
+PROPN_Case	24 52.2	6 25.0
+Nom	23 95.8
+Other: NOUN_Gen 12 52.2	NOUN_Acc 3 13.0	NOUN_Nom 3 13.0	PROPN_Gen 2 8.7	PROPN_Nom 1 4.3	PROPN_Dat 1 4.3	ADJ_Nom 1 4.3
+Gen	1 4.2
+Other: NOUN_Gen 1 100.0
+----------------------------------------
+PROPN_Number	24 52.2	18 75.0
+Sing	24 100.0
+Other: NOUN_Sing 13 54.2	NOUN_Plur 6 25.0	PROPN_Sing 4 16.7	ADJ_Sing 1 4.2
+----------------------------------------
+ADJ_Number	19 3.8	16 84.2
+Sing	18 94.7
+Other: ADJ_Sing 13 72.2	ADJ_Plur 3 16.7	NOUN_Sing 2 11.1
+Plur	1 5.3
+Other: NOUN_Plur 1 100.0
+----------------------------------------
+ADJ_Gender	18 3.6	7 46.7
+Neut	14 77.8
+Other: ADJ_Masc 5 45.5	ADJ_Fem 3 27.3	ADJ_Neut 3 27.3
+Masc	2 11.1
+Other: NOUN_Masc 2 100.0
+Fem	2 11.1
+Other: ADJ_Fem 2 100.0
+----------------------------------------
+ADJ_Variant	14 2.8	0 0.0
+Short	14 100.0
+Other: 
+----------------------------------------
+PROPN_Foreign	8 17.4	0 0.0
+Yes	8 100.0
+Other: 
+----------------------------------------
+ADV_Degree	6 100.0	4 100.0
+Pos	6 100.0
+Other: ADJ_Pos 4 100.0
+----------------------------------------
+ADJ_Case	5 1.0	5 100.0
+Ins	2 40.0
+Other: NOUN_Ins 1 50.0	ADJ_Ins 1 50.0
+Gen	2 40.0
+Other: NOUN_Gen 1 50.0	ADJ_Gen 1 50.0
+Acc	1 20.0
+Other: NOUN_Acc 1 100.0
+----------------------------------------
+ADJ_Animacy	1 0.2	1 100.0
+Inan	1 100.0
+Other: NOUN_Inan 1 100.0
+----------------------------------------
+X_Foreign	1 100.0	0 0.0
+Yes	1 100.0
+Other: 
+----------------------------------------
